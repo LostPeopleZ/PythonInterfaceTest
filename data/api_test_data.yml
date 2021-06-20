@@ -1,0 +1,11 @@
+test_get_token:
+  # 期望结果,期望返回码,期望返回信息
+  # openId, unionId, mobileNo, hospitalId
+  - ['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]
+
+test_getVisitList:
+  # 期望结果,期望返回码,期望返回信息
+  # accountId, withCard, isShowBlank, hospitalId, status
+  - ['', true, true, 10379, 14005]
+  - [Null, true, true, 10379, 14005]
+  - ['1397753022024544258',true, true, 10379, 0]

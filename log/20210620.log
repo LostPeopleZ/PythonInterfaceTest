@@ -1,0 +1,1694 @@
+[2021-06-20 15:12:58,956][rest_client.py 53][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 15:12:58,956][rest_client.py 54][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 15:12:58,956][rest_client.py 56][INFO]: 接口请求头 ==>> null
+[2021-06-20 15:12:58,956][rest_client.py 57][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 15:12:58,956][rest_client.py 58][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 15:12:58,956][rest_client.py 59][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": "18958149475",
+    "hospitalId": 10379
+}
+[2021-06-20 15:12:58,957][rest_client.py 60][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 15:12:58,957][rest_client.py 61][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 15:13:38,190][rest_client.py 53][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 15:13:38,190][rest_client.py 54][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 15:13:38,190][rest_client.py 56][INFO]: 接口请求头 ==>> null
+[2021-06-20 15:13:38,190][rest_client.py 57][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 15:13:38,190][rest_client.py 58][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 15:13:38,190][rest_client.py 59][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": "18958149475",
+    "hospitalId": 10379
+}
+[2021-06-20 15:13:38,191][rest_client.py 60][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 15:13:38,191][rest_client.py 61][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 15:15:11,994][rest_client.py 53][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 15:15:11,995][rest_client.py 54][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 15:15:11,995][rest_client.py 56][INFO]: 接口请求头 ==>> null
+[2021-06-20 15:15:11,995][rest_client.py 57][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 15:15:11,995][rest_client.py 58][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 15:15:11,995][rest_client.py 59][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": "18958149475",
+    "hospitalId": 10379
+}
+[2021-06-20 15:15:11,995][rest_client.py 60][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 15:15:11,995][rest_client.py 61][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 15:15:12,045][rest_client.py 53][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/patient/list
+[2021-06-20 15:15:12,045][rest_client.py 54][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 15:15:12,045][rest_client.py 56][INFO]: 接口请求头 ==>> {
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJsb2dpbl90b2tlbiIsImhvc3BpdGFsSWQiOjEwMzc5LCJtb2JpbGUiOiIxODk1ODE0OTQ3NSIsImlzcyI6InpoaWNhbGwiLCJmcm9tIjoiOCIsInR5cGUiOiJQQVRJRU5UIiwiZXhwaXJlc19pbiI6IjE2MjQxNzY5MTAiLCJpYXQiOjE2MjQxNzMzMTA4MjUsImFjY291bnQiOiIxMzk3NzUzMDIyMDI0NTQ0MjU4In0.HKucRFhOR9VG8vjlI2OHedwOmT3UHztI476-3C2c24A"
+}
+[2021-06-20 15:15:12,045][rest_client.py 57][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 15:15:12,045][rest_client.py 58][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 15:15:12,045][rest_client.py 59][INFO]: 接口请求体 json 参数 ==>> {
+    "accountId": "1397753022024544258",
+    "withCard": true,
+    "isShowBlank": true,
+    "hospitalId": 10379
+}
+[2021-06-20 15:15:12,046][rest_client.py 60][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 15:15:12,046][rest_client.py 61][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 15:16:19,362][rest_client.py 53][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 15:16:19,362][rest_client.py 54][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 15:16:19,362][rest_client.py 56][INFO]: 接口请求头 ==>> null
+[2021-06-20 15:16:19,363][rest_client.py 57][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 15:16:19,363][rest_client.py 58][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 15:16:19,363][rest_client.py 59][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": "18958149475",
+    "hospitalId": 10379
+}
+[2021-06-20 15:16:19,363][rest_client.py 60][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 15:16:19,363][rest_client.py 61][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 15:16:19,406][rest_client.py 53][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/patient/list
+[2021-06-20 15:16:19,406][rest_client.py 54][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 15:16:19,406][rest_client.py 56][INFO]: 接口请求头 ==>> {
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJsb2dpbl90b2tlbiIsImhvc3BpdGFsSWQiOjEwMzc5LCJtb2JpbGUiOiIxODk1ODE0OTQ3NSIsImlzcyI6InpoaWNhbGwiLCJmcm9tIjoiOCIsInR5cGUiOiJQQVRJRU5UIiwiZXhwaXJlc19pbiI6IjE2MjQxNzY5NzgiLCJpYXQiOjE2MjQxNzMzNzgxODYsImFjY291bnQiOiIxMzk3NzUzMDIyMDI0NTQ0MjU4In0.m_c-rKXkxB_oZnvRgvNNy65LnJR9jwKslPK1NfiCo4I"
+}
+[2021-06-20 15:16:19,406][rest_client.py 57][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 15:16:19,406][rest_client.py 58][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 15:16:19,406][rest_client.py 59][INFO]: 接口请求体 json 参数 ==>> {
+    "accountId": "1397753022024544258",
+    "withCard": true,
+    "isShowBlank": true,
+    "hospitalId": 10379
+}
+[2021-06-20 15:16:19,406][rest_client.py 60][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 15:16:19,406][rest_client.py 61][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 15:18:13,290][logger.py 33][INFO]: ---测试开始---
+[2021-06-20 15:18:13,290][logger.py 37][DEBUG]: ---测试结束---
+[2021-06-20 15:19:00,089][rest_client.py 53][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 15:19:00,089][rest_client.py 54][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 15:19:00,089][rest_client.py 56][INFO]: 接口请求头 ==>> null
+[2021-06-20 15:19:00,089][rest_client.py 57][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 15:19:00,089][rest_client.py 58][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 15:19:00,089][rest_client.py 59][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": "18958149475",
+    "hospitalId": 10379
+}
+[2021-06-20 15:19:00,089][rest_client.py 60][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 15:19:00,089][rest_client.py 61][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 15:19:00,148][rest_client.py 53][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/patient/list
+[2021-06-20 15:19:00,148][rest_client.py 54][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 15:19:00,148][rest_client.py 56][INFO]: 接口请求头 ==>> {
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJsb2dpbl90b2tlbiIsImhvc3BpdGFsSWQiOjEwMzc5LCJtb2JpbGUiOiIxODk1ODE0OTQ3NSIsImlzcyI6InpoaWNhbGwiLCJmcm9tIjoiOCIsInR5cGUiOiJQQVRJRU5UIiwiZXhwaXJlc19pbiI6IjE2MjQxNzcxMzgiLCJpYXQiOjE2MjQxNzM1Mzg5MjQsImFjY291bnQiOiIxMzk3NzUzMDIyMDI0NTQ0MjU4In0.30m3dY59zK1TbTa2TuHToWNQyq4LjjY0ECENFpk_reA"
+}
+[2021-06-20 15:19:00,148][rest_client.py 57][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 15:19:00,148][rest_client.py 58][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 15:19:00,148][rest_client.py 59][INFO]: 接口请求体 json 参数 ==>> {
+    "accountId": "1397753022024544258",
+    "withCard": true,
+    "isShowBlank": true,
+    "hospitalId": 10379
+}
+[2021-06-20 15:19:00,148][rest_client.py 60][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 15:19:00,148][rest_client.py 61][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 15:23:29,940][rest_client.py 53][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 15:23:29,940][rest_client.py 54][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 15:23:29,941][rest_client.py 56][INFO]: 接口请求头 ==>> null
+[2021-06-20 15:23:29,941][rest_client.py 57][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 15:23:29,941][rest_client.py 58][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 15:23:29,941][rest_client.py 59][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": 18958149475,
+    "hospitalId": 10379
+}
+[2021-06-20 15:23:29,941][rest_client.py 60][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 15:23:29,941][rest_client.py 61][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 15:24:03,391][rest_client.py 53][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 15:24:03,391][rest_client.py 54][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 15:24:03,391][rest_client.py 56][INFO]: 接口请求头 ==>> null
+[2021-06-20 15:24:03,392][rest_client.py 57][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 15:24:03,392][rest_client.py 58][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 15:24:03,392][rest_client.py 59][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": 18958149475,
+    "hospitalId": 10379
+}
+[2021-06-20 15:24:03,392][rest_client.py 60][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 15:24:03,392][rest_client.py 61][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 15:24:03,434][rest_client.py 53][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/patient/list
+[2021-06-20 15:24:03,434][rest_client.py 54][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 15:24:03,434][rest_client.py 56][INFO]: 接口请求头 ==>> {
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJsb2dpbl90b2tlbiIsImhvc3BpdGFsSWQiOjEwMzc5LCJtb2JpbGUiOiIxODk1ODE0OTQ3NSIsImlzcyI6InpoaWNhbGwiLCJmcm9tIjoiOCIsInR5cGUiOiJQQVRJRU5UIiwiZXhwaXJlc19pbiI6IjE2MjQxNzc0NDIiLCJpYXQiOjE2MjQxNzM4NDIyMDYsImFjY291bnQiOiIxMzk3NzUzMDIyMDI0NTQ0MjU4In0.DfOHQsl2WLEua62tiZOeXpdLG_VBwkmNkpJguxam094"
+}
+[2021-06-20 15:24:03,434][rest_client.py 57][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 15:24:03,434][rest_client.py 58][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 15:24:03,435][rest_client.py 59][INFO]: 接口请求体 json 参数 ==>> {
+    "accountId": "1397753022024544258",
+    "withCard": true,
+    "isShowBlank": true,
+    "hospitalId": 10379
+}
+[2021-06-20 15:24:03,435][rest_client.py 60][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 15:24:03,435][rest_client.py 61][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 15:26:52,823][rest_client.py 53][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 15:26:52,824][rest_client.py 54][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 15:26:52,824][rest_client.py 56][INFO]: 接口请求头 ==>> null
+[2021-06-20 15:26:52,824][rest_client.py 57][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 15:26:52,824][rest_client.py 58][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 15:26:52,824][rest_client.py 59][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": 18958149475,
+    "hospitalId": 10379
+}
+[2021-06-20 15:26:52,824][rest_client.py 60][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 15:26:52,824][rest_client.py 61][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 15:27:12,320][rest_client.py 53][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 15:27:12,321][rest_client.py 54][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 15:27:12,321][rest_client.py 56][INFO]: 接口请求头 ==>> null
+[2021-06-20 15:27:12,321][rest_client.py 57][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 15:27:12,321][rest_client.py 58][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 15:27:12,321][rest_client.py 59][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": 18958149475,
+    "hospitalId": 10379
+}
+[2021-06-20 15:27:12,321][rest_client.py 60][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 15:27:12,321][rest_client.py 61][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 15:27:12,360][rest_client.py 53][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 15:27:12,360][rest_client.py 54][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 15:27:12,360][rest_client.py 56][INFO]: 接口请求头 ==>> null
+[2021-06-20 15:27:12,360][rest_client.py 57][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 15:27:12,360][rest_client.py 58][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 15:27:12,360][rest_client.py 59][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": 18958149475,
+    "hospitalId": 10379
+}
+[2021-06-20 15:27:12,360][rest_client.py 60][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 15:27:12,360][rest_client.py 61][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 15:27:12,391][rest_client.py 53][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/patient/list
+[2021-06-20 15:27:12,391][rest_client.py 54][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 15:27:12,391][rest_client.py 56][INFO]: 接口请求头 ==>> {
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJsb2dpbl90b2tlbiIsImhvc3BpdGFsSWQiOjEwMzc5LCJtb2JpbGUiOiIxODk1ODE0OTQ3NSIsImlzcyI6InpoaWNhbGwiLCJmcm9tIjoiOCIsInR5cGUiOiJQQVRJRU5UIiwiZXhwaXJlc19pbiI6IjE2MjQxNzc2MzEiLCJpYXQiOjE2MjQxNzQwMzExNjEsImFjY291bnQiOiIxMzk3NzUzMDIyMDI0NTQ0MjU4In0.eRGZMhhZ-0akXaQYcXV8ArGBTP-GFaHcpSMK4-pAn5M"
+}
+[2021-06-20 15:27:12,391][rest_client.py 57][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 15:27:12,391][rest_client.py 58][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 15:27:12,391][rest_client.py 59][INFO]: 接口请求体 json 参数 ==>> {
+    "accountId": "1397753022024544258",
+    "withCard": true,
+    "isShowBlank": true,
+    "hospitalId": 10379
+}
+[2021-06-20 15:27:12,391][rest_client.py 60][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 15:27:12,391][rest_client.py 61][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 15:30:44,786][rest_client.py 53][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 15:30:44,786][rest_client.py 54][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 15:30:44,786][rest_client.py 56][INFO]: 接口请求头 ==>> null
+[2021-06-20 15:30:44,786][rest_client.py 57][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 15:30:44,786][rest_client.py 58][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 15:30:44,786][rest_client.py 59][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": 18958149475,
+    "hospitalId": 10379
+}
+[2021-06-20 15:30:44,786][rest_client.py 60][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 15:30:44,786][rest_client.py 61][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 15:35:00,884][rest_client.py 53][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 15:35:00,884][rest_client.py 54][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 15:35:00,884][rest_client.py 56][INFO]: 接口请求头 ==>> null
+[2021-06-20 15:35:00,884][rest_client.py 57][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 15:35:00,884][rest_client.py 58][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 15:35:00,884][rest_client.py 59][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": 18958149475,
+    "hospitalId": 10379
+}
+[2021-06-20 15:35:00,884][rest_client.py 60][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 15:35:00,884][rest_client.py 61][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 15:35:00,954][rest_client.py 53][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 15:35:00,954][rest_client.py 54][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 15:35:00,954][rest_client.py 56][INFO]: 接口请求头 ==>> null
+[2021-06-20 15:35:00,954][rest_client.py 57][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 15:35:00,954][rest_client.py 58][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 15:35:00,955][rest_client.py 59][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": 18958149475,
+    "hospitalId": 10379
+}
+[2021-06-20 15:35:00,955][rest_client.py 60][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 15:35:00,955][rest_client.py 61][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 15:35:35,124][rest_client.py 53][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 15:35:35,124][rest_client.py 54][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 15:35:35,124][rest_client.py 56][INFO]: 接口请求头 ==>> null
+[2021-06-20 15:35:35,124][rest_client.py 57][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 15:35:35,124][rest_client.py 58][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 15:35:35,125][rest_client.py 59][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": 18958149475,
+    "hospitalId": 10379
+}
+[2021-06-20 15:35:35,125][rest_client.py 60][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 15:35:35,125][rest_client.py 61][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 15:35:35,170][rest_client.py 53][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 15:35:35,171][rest_client.py 54][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 15:35:35,171][rest_client.py 56][INFO]: 接口请求头 ==>> null
+[2021-06-20 15:35:35,171][rest_client.py 57][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 15:35:35,171][rest_client.py 58][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 15:35:35,171][rest_client.py 59][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": 18958149475,
+    "hospitalId": 10379
+}
+[2021-06-20 15:35:35,171][rest_client.py 60][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 15:35:35,171][rest_client.py 61][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 15:36:12,596][rest_client.py 53][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 15:36:12,596][rest_client.py 54][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 15:36:12,596][rest_client.py 56][INFO]: 接口请求头 ==>> null
+[2021-06-20 15:36:12,596][rest_client.py 57][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 15:36:12,596][rest_client.py 58][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 15:36:12,596][rest_client.py 59][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": 18958149475,
+    "hospitalId": 10379
+}
+[2021-06-20 15:36:12,596][rest_client.py 60][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 15:36:12,596][rest_client.py 61][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 15:36:12,640][rest_client.py 53][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 15:36:12,640][rest_client.py 54][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 15:36:12,640][rest_client.py 56][INFO]: 接口请求头 ==>> null
+[2021-06-20 15:36:12,640][rest_client.py 57][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 15:36:12,640][rest_client.py 58][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 15:36:12,640][rest_client.py 59][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": 18958149475,
+    "hospitalId": 10379
+}
+[2021-06-20 15:36:12,641][rest_client.py 60][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 15:36:12,641][rest_client.py 61][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 15:36:12,671][rest_client.py 53][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/patient/list
+[2021-06-20 15:36:12,671][rest_client.py 54][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 15:36:12,671][rest_client.py 56][INFO]: 接口请求头 ==>> {
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJsb2dpbl90b2tlbiIsImhvc3BpdGFsSWQiOjEwMzc5LCJtb2JpbGUiOiIxODk1ODE0OTQ3NSIsImlzcyI6InpoaWNhbGwiLCJmcm9tIjoiOCIsInR5cGUiOiJQQVRJRU5UIiwiZXhwaXJlc19pbiI6IjE2MjQxNzgxNzEiLCJpYXQiOjE2MjQxNzQ1NzE0MzMsImFjY291bnQiOiIxMzk3NzUzMDIyMDI0NTQ0MjU4In0.VI8TtlZPCYEcMYmDtpPe70XiMvEY0ESIazyrXhNsB50"
+}
+[2021-06-20 15:36:12,671][rest_client.py 57][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 15:36:12,672][rest_client.py 58][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 15:36:12,672][rest_client.py 59][INFO]: 接口请求体 json 参数 ==>> {
+    "accountId": "1397753022024544258",
+    "withCard": true,
+    "isShowBlank": true,
+    "hospitalId": "10379"
+}
+[2021-06-20 15:36:12,672][rest_client.py 60][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 15:36:12,672][rest_client.py 61][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 16:32:26,359][rest_client.py 53][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 16:32:26,359][rest_client.py 54][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 16:32:26,359][rest_client.py 56][INFO]: 接口请求头 ==>> null
+[2021-06-20 16:32:26,359][rest_client.py 57][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 16:32:26,359][rest_client.py 58][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 16:32:26,359][rest_client.py 59][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": 18958149475,
+    "hospitalId": 10379
+}
+[2021-06-20 16:32:26,359][rest_client.py 60][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 16:32:26,359][rest_client.py 61][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 16:32:26,433][rest_client.py 53][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 16:32:26,433][rest_client.py 54][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 16:32:26,433][rest_client.py 56][INFO]: 接口请求头 ==>> null
+[2021-06-20 16:32:26,433][rest_client.py 57][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 16:32:26,433][rest_client.py 58][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 16:32:26,433][rest_client.py 59][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": 18958149475,
+    "hospitalId": 10379
+}
+[2021-06-20 16:32:26,433][rest_client.py 60][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 16:32:26,433][rest_client.py 61][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 16:32:26,468][rest_client.py 53][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/patient/list
+[2021-06-20 16:32:26,468][rest_client.py 54][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 16:32:26,468][rest_client.py 56][INFO]: 接口请求头 ==>> {
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJsb2dpbl90b2tlbiIsImhvc3BpdGFsSWQiOjEwMzc5LCJtb2JpbGUiOiIxODk1ODE0OTQ3NSIsImlzcyI6InpoaWNhbGwiLCJmcm9tIjoiOCIsInR5cGUiOiJQQVRJRU5UIiwiZXhwaXJlc19pbiI6IjE2MjQxODE1NDUiLCJpYXQiOjE2MjQxNzc5NDUxNzcsImFjY291bnQiOiIxMzk3NzUzMDIyMDI0NTQ0MjU4In0.Yd267rXAxAPn063YUI7jzbOxmIla6u4UTdAWkRM4m9E"
+}
+[2021-06-20 16:32:26,468][rest_client.py 57][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 16:32:26,468][rest_client.py 58][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 16:32:26,468][rest_client.py 59][INFO]: 接口请求体 json 参数 ==>> {
+    "accountId": "1397753022024544258",
+    "withCard": true,
+    "isShowBlank": true,
+    "hospitalId": "10379"
+}
+[2021-06-20 16:32:26,468][rest_client.py 60][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 16:32:26,468][rest_client.py 61][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 16:32:38,038][rest_client.py 53][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 16:32:38,038][rest_client.py 54][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 16:32:38,038][rest_client.py 56][INFO]: 接口请求头 ==>> null
+[2021-06-20 16:32:38,038][rest_client.py 57][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 16:32:38,039][rest_client.py 58][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 16:32:38,039][rest_client.py 59][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": 18958149475,
+    "hospitalId": 10379
+}
+[2021-06-20 16:32:38,039][rest_client.py 60][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 16:32:38,039][rest_client.py 61][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 16:32:38,088][rest_client.py 53][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 16:32:38,088][rest_client.py 54][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 16:32:38,088][rest_client.py 56][INFO]: 接口请求头 ==>> null
+[2021-06-20 16:32:38,088][rest_client.py 57][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 16:32:38,088][rest_client.py 58][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 16:32:38,088][rest_client.py 59][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": 18958149475,
+    "hospitalId": 10379
+}
+[2021-06-20 16:32:38,088][rest_client.py 60][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 16:32:38,089][rest_client.py 61][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 16:32:38,119][rest_client.py 53][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/patient/list
+[2021-06-20 16:32:38,120][rest_client.py 54][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 16:32:38,120][rest_client.py 56][INFO]: 接口请求头 ==>> {
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJsb2dpbl90b2tlbiIsImhvc3BpdGFsSWQiOjEwMzc5LCJtb2JpbGUiOiIxODk1ODE0OTQ3NSIsImlzcyI6InpoaWNhbGwiLCJmcm9tIjoiOCIsInR5cGUiOiJQQVRJRU5UIiwiZXhwaXJlc19pbiI6IjE2MjQxODE1NTYiLCJpYXQiOjE2MjQxNzc5NTY4MjcsImFjY291bnQiOiIxMzk3NzUzMDIyMDI0NTQ0MjU4In0.jHtGl1AQMqHa7oxTpKAQtrUZWIKmnWcVygvYw6DyTqE"
+}
+[2021-06-20 16:32:38,120][rest_client.py 57][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 16:32:38,120][rest_client.py 58][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 16:32:38,120][rest_client.py 59][INFO]: 接口请求体 json 参数 ==>> {
+    "accountId": "1397753022024544258",
+    "withCard": true,
+    "isShowBlank": true,
+    "hospitalId": "10379"
+}
+[2021-06-20 16:32:38,120][rest_client.py 60][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 16:32:38,120][rest_client.py 61][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 17:44:42,222][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 17:44:42,223][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:01:56,925][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:01:56,926][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:03:51,281][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:03:51,282][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:03:51,283][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 18:03:51,284][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 18:03:51,284][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest/env.yml 文件......
+[2021-06-20 18:03:51,285][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:03:51,656][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest/env.yml 文件......
+[2021-06-20 18:03:51,657][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:03:51,664][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......
+[2021-06-20 18:03:51,664][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......成功
+[2021-06-20 18:03:51,665][test_Authorize.py 32][INFO]: *************** 开始执行用例 ***************
+[2021-06-20 18:03:51,665][rest_client.py 53][INFO]: 接口请求地址 ==>> /user-center/account/wechatAppletsLogin
+[2021-06-20 18:03:51,665][rest_client.py 54][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 18:03:51,665][rest_client.py 56][INFO]: 接口请求头 ==>> null
+[2021-06-20 18:03:51,665][rest_client.py 57][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 18:03:51,665][rest_client.py 58][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 18:03:51,665][rest_client.py 59][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": "18958149475",
+    "hospitalId": 10379
+}
+[2021-06-20 18:03:51,665][rest_client.py 60][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 18:03:51,666][rest_client.py 61][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 18:06:50,408][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:06:50,409][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:06:50,409][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 18:06:50,410][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 18:06:50,454][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest/env.yml 文件......
+[2021-06-20 18:08:30,042][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:08:30,045][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:08:54,605][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 18:08:54,607][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 18:08:55,203][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest/env.yml 文件......
+[2021-06-20 18:10:27,733][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:10:27,734][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:10:27,737][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 18:10:27,738][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 18:10:27,738][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\testcases\config\env.yml 文件......
+[2021-06-20 18:11:55,153][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:11:55,154][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:11:55,155][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 18:11:55,156][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 18:11:55,156][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:11:55,157][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:11:55,522][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:11:55,523][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:11:55,528][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......
+[2021-06-20 18:11:55,529][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......成功
+[2021-06-20 18:11:55,529][test_Authorize.py 33][INFO]: *************** 开始执行用例 ***************
+[2021-06-20 18:11:55,529][rest_client.py 53][INFO]: 接口请求地址 ==>> /user-center/account/wechatAppletsLogin
+[2021-06-20 18:11:55,529][rest_client.py 54][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 18:11:55,529][rest_client.py 56][INFO]: 接口请求头 ==>> null
+[2021-06-20 18:11:55,529][rest_client.py 57][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 18:11:55,530][rest_client.py 58][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 18:11:55,530][rest_client.py 59][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": "18958149475",
+    "hospitalId": 10379
+}
+[2021-06-20 18:11:55,530][rest_client.py 60][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 18:11:55,530][rest_client.py 61][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 18:12:26,250][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:12:26,251][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:12:26,253][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 18:12:26,254][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 18:12:26,254][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:12:26,255][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:12:26,631][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:12:26,632][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:12:26,638][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......
+[2021-06-20 18:12:26,638][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......成功
+[2021-06-20 18:12:26,639][test_Authorize.py 33][INFO]: *************** 开始执行用例 ***************
+[2021-06-20 18:12:26,639][rest_client.py 53][INFO]: 接口请求地址 ==>> /user-center/account/wechatAppletsLogin
+[2021-06-20 18:12:26,639][rest_client.py 54][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 18:12:26,639][rest_client.py 56][INFO]: 接口请求头 ==>> null
+[2021-06-20 18:12:26,639][rest_client.py 57][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 18:12:26,639][rest_client.py 58][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 18:12:26,639][rest_client.py 59][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": "18958149475",
+    "hospitalId": 10379
+}
+[2021-06-20 18:12:26,639][rest_client.py 60][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 18:12:26,640][rest_client.py 61][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 18:13:15,825][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:13:15,826][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:13:15,827][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 18:13:15,828][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 18:13:15,828][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:13:15,829][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:13:51,527][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:13:51,528][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:13:51,529][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 18:13:51,530][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 18:13:51,530][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:13:51,531][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:13:51,896][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:13:51,896][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:13:51,902][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......
+[2021-06-20 18:13:51,902][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......成功
+[2021-06-20 18:13:51,903][test_Authorize.py 33][INFO]: *************** 开始执行用例 ***************
+[2021-06-20 18:13:51,903][rest_client.py 53][INFO]: 接口请求地址 ==>> /user-center/account/wechatAppletsLogin
+[2021-06-20 18:13:51,903][rest_client.py 54][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 18:13:51,903][rest_client.py 56][INFO]: 接口请求头 ==>> null
+[2021-06-20 18:13:51,903][rest_client.py 57][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 18:13:51,903][rest_client.py 58][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 18:13:51,903][rest_client.py 59][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": "18958149475",
+    "hospitalId": 10379
+}
+[2021-06-20 18:13:51,903][rest_client.py 60][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 18:13:51,903][rest_client.py 61][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 18:20:11,684][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:20:11,685][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:20:11,686][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 18:20:11,687][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 18:20:11,687][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:20:11,688][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:20:12,052][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:20:12,053][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:20:12,058][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......
+[2021-06-20 18:20:12,058][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......成功
+[2021-06-20 18:20:12,059][test_Authorize.py 33][INFO]: *************** 开始执行用例 ***************
+[2021-06-20 18:20:12,059][rest_client.py 53][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 18:20:12,059][rest_client.py 54][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 18:20:12,059][rest_client.py 56][INFO]: 接口请求头 ==>> null
+[2021-06-20 18:20:12,059][rest_client.py 57][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 18:20:12,059][rest_client.py 58][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 18:20:12,059][rest_client.py 59][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": "18958149475",
+    "hospitalId": 10379
+}
+[2021-06-20 18:20:12,060][rest_client.py 60][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 18:20:12,060][rest_client.py 61][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 18:21:39,888][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:21:39,889][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:21:39,890][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 18:21:39,891][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 18:21:39,891][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:21:39,892][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:21:40,255][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:21:40,256][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:21:40,261][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......
+[2021-06-20 18:21:40,261][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......成功
+[2021-06-20 18:21:40,262][test_Authorize.py 33][INFO]: *************** 开始执行用例 ***************
+[2021-06-20 18:21:40,262][rest_client.py 52][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 18:21:40,262][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 18:21:40,262][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-20 18:21:40,262][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 18:21:40,262][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 18:21:40,262][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": "18958149475",
+    "hospitalId": 10379
+}
+[2021-06-20 18:21:40,262][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 18:21:40,262][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 18:22:40,334][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:22:40,335][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:22:40,336][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 18:22:40,337][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 18:22:40,337][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:22:40,338][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:22:40,712][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:22:40,713][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:22:40,718][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......
+[2021-06-20 18:22:40,719][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......成功
+[2021-06-20 18:22:40,719][test_Authorize.py 33][INFO]: *************** 开始执行用例 ***************
+[2021-06-20 18:27:30,789][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:27:30,790][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:27:30,792][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 18:27:30,793][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 18:27:30,793][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:27:30,794][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:29:19,404][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:29:19,405][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:29:19,407][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 18:29:19,408][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 18:29:19,408][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:29:19,409][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:29:28,034][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:29:28,035][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:29:28,036][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 18:29:28,037][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 18:29:28,037][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:29:28,038][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:29:28,401][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:29:28,402][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:29:28,408][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......
+[2021-06-20 18:29:28,408][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......成功
+[2021-06-20 18:29:28,409][test_Authorize.py 33][INFO]: *************** 开始执行用例 ***************
+[2021-06-20 18:29:28,409][rest_client.py 55][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 18:29:28,409][rest_client.py 56][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 18:29:28,409][rest_client.py 58][INFO]: 接口请求头 ==>> null
+[2021-06-20 18:29:28,409][rest_client.py 59][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 18:29:28,409][rest_client.py 60][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 18:29:28,409][rest_client.py 61][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": "18958149475",
+    "hospitalId": 10379
+}
+[2021-06-20 18:29:28,409][rest_client.py 62][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 18:29:28,409][rest_client.py 63][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 18:29:58,908][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:29:58,909][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:29:58,912][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 18:29:58,913][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 18:29:58,913][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:29:58,914][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:29:59,287][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:29:59,288][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:29:59,293][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......
+[2021-06-20 18:29:59,294][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......成功
+[2021-06-20 18:29:59,294][test_Authorize.py 33][INFO]: *************** 开始执行用例 ***************
+[2021-06-20 18:29:59,294][rest_client.py 55][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 18:29:59,295][rest_client.py 56][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 18:29:59,295][rest_client.py 58][INFO]: 接口请求头 ==>> null
+[2021-06-20 18:29:59,295][rest_client.py 59][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 18:29:59,295][rest_client.py 60][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 18:29:59,295][rest_client.py 61][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": "18958149475",
+    "hospitalId": 10379
+}
+[2021-06-20 18:29:59,295][rest_client.py 62][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 18:29:59,295][rest_client.py 63][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 18:35:01,982][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:35:01,983][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:35:01,985][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 18:35:01,985][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 18:35:01,985][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:35:01,986][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:35:02,352][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:35:02,353][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:35:02,358][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......
+[2021-06-20 18:35:02,359][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......成功
+[2021-06-20 18:35:02,359][test_Authorize.py 34][INFO]: *************** 开始执行用例 ***************
+[2021-06-20 18:35:02,359][rest_client.py 55][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 18:35:02,359][rest_client.py 56][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 18:35:02,359][rest_client.py 58][INFO]: 接口请求头 ==>> null
+[2021-06-20 18:35:02,359][rest_client.py 59][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 18:35:02,359][rest_client.py 60][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 18:35:02,360][rest_client.py 61][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": "18958149475",
+    "hospitalId": 10379
+}
+[2021-06-20 18:35:02,360][rest_client.py 62][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 18:35:02,360][rest_client.py 63][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 18:35:36,834][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:35:36,835][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:35:36,836][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 18:35:36,837][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 18:35:36,837][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:35:36,838][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:35:37,204][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:35:37,205][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:35:37,211][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......
+[2021-06-20 18:35:37,211][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......成功
+[2021-06-20 18:35:37,212][test_Authorize.py 34][INFO]: *************** 开始执行用例 ***************
+[2021-06-20 18:36:05,703][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:36:05,704][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:36:05,705][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 18:36:05,706][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 18:36:05,706][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:36:05,707][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:36:06,075][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:36:06,076][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:36:06,081][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......
+[2021-06-20 18:36:06,081][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......成功
+[2021-06-20 18:36:06,082][test_Authorize.py 34][INFO]: *************** 开始执行用例 ***************
+[2021-06-20 18:36:56,307][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:36:56,308][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:36:56,310][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 18:36:56,310][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 18:36:56,310][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:36:56,311][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:36:56,682][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:36:56,683][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:36:56,689][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......
+[2021-06-20 18:36:56,689][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......成功
+[2021-06-20 18:36:56,690][test_Authorize.py 34][INFO]: *************** 开始执行用例 ***************
+[2021-06-20 18:37:49,746][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:37:49,747][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:37:49,749][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 18:37:49,750][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 18:37:49,750][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:37:49,751][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:37:50,112][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:37:50,113][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:37:50,118][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......
+[2021-06-20 18:37:50,118][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......成功
+[2021-06-20 18:37:50,119][test_Authorize.py 34][INFO]: *************** 开始执行用例 ***************
+[2021-06-20 18:38:03,526][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:38:03,527][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:38:03,529][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 18:38:03,529][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 18:38:03,529][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:38:03,530][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:38:03,893][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:38:03,894][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:38:03,899][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......
+[2021-06-20 18:38:03,900][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......成功
+[2021-06-20 18:38:03,900][test_Authorize.py 34][INFO]: *************** 开始执行用例 ***************
+[2021-06-20 18:38:03,968][rest_client.py 55][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 18:38:03,968][rest_client.py 56][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 18:38:03,968][rest_client.py 58][INFO]: 接口请求头 ==>> null
+[2021-06-20 18:38:03,968][rest_client.py 59][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 18:38:03,968][rest_client.py 60][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 18:38:03,968][rest_client.py 61][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": "18958149475",
+    "hospitalId": 10379
+}
+[2021-06-20 18:38:03,968][rest_client.py 62][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 18:38:03,968][rest_client.py 63][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 18:38:25,097][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:38:25,098][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:38:25,099][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 18:38:25,100][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 18:38:25,100][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:38:25,101][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:38:25,465][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:38:25,466][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:38:25,472][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......
+[2021-06-20 18:38:25,472][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......成功
+[2021-06-20 18:38:25,473][test_Authorize.py 34][INFO]: *************** 开始执行用例 ***************
+[2021-06-20 18:38:25,518][rest_client.py 55][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 18:38:25,518][rest_client.py 56][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 18:38:25,518][rest_client.py 58][INFO]: 接口请求头 ==>> null
+[2021-06-20 18:38:25,518][rest_client.py 59][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 18:38:25,518][rest_client.py 60][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 18:38:25,518][rest_client.py 61][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": "18958149475",
+    "hospitalId": 10379
+}
+[2021-06-20 18:38:25,518][rest_client.py 62][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 18:38:25,519][rest_client.py 63][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 18:39:20,984][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:39:20,985][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:39:20,987][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 18:39:20,988][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 18:39:20,988][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:39:20,989][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:39:21,345][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:39:21,346][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:39:21,351][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......
+[2021-06-20 18:39:21,351][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......成功
+[2021-06-20 18:39:21,352][test_Authorize.py 34][INFO]: *************** 开始执行用例 ***************
+[2021-06-20 18:39:21,391][rest_client.py 55][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 18:39:21,391][rest_client.py 56][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 18:39:21,391][rest_client.py 58][INFO]: 接口请求头 ==>> null
+[2021-06-20 18:39:21,391][rest_client.py 59][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 18:39:21,391][rest_client.py 60][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 18:39:21,391][rest_client.py 61][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": "18958149475",
+    "hospitalId": 10379
+}
+[2021-06-20 18:39:21,391][rest_client.py 62][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 18:39:21,392][rest_client.py 63][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 18:39:25,540][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:39:25,542][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:39:25,544][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 18:39:25,546][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 18:39:25,547][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:39:25,549][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:39:26,103][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:39:26,105][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:39:26,119][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......
+[2021-06-20 18:39:26,119][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......成功
+[2021-06-20 18:39:26,121][test_Authorize.py 34][INFO]: *************** 开始执行用例 ***************
+[2021-06-20 18:40:18,035][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:40:18,036][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:40:18,037][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 18:40:18,038][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 18:40:18,038][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:40:18,039][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:40:18,404][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:40:18,405][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:40:18,410][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......
+[2021-06-20 18:40:18,411][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......成功
+[2021-06-20 18:40:18,411][test_Authorize.py 34][INFO]: *************** 开始执行用例 ***************
+[2021-06-20 18:41:33,866][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:41:33,868][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:41:33,871][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 18:41:33,872][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 18:41:33,873][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:41:33,875][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:41:34,413][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:41:34,415][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:41:34,426][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......
+[2021-06-20 18:41:34,426][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......成功
+[2021-06-20 18:41:34,428][test_Authorize.py 34][INFO]: *************** 开始执行用例 ***************
+[2021-06-20 18:43:43,152][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:43:43,155][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:43:43,157][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 18:43:43,159][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 18:43:43,159][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:43:43,161][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:43:43,695][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:43:43,698][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:43:43,709][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......
+[2021-06-20 18:43:43,709][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......成功
+[2021-06-20 18:43:43,711][test_Authorize.py 34][INFO]: *************** 开始执行用例 ***************
+[2021-06-20 18:44:13,524][rest_client.py 55][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 18:44:13,525][rest_client.py 56][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 18:44:13,525][rest_client.py 58][INFO]: 接口请求头 ==>> null
+[2021-06-20 18:44:13,525][rest_client.py 59][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 18:44:13,525][rest_client.py 60][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 18:44:13,525][rest_client.py 61][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": "18958149475",
+    "hospitalId": 10379
+}
+[2021-06-20 18:44:13,526][rest_client.py 62][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 18:44:13,526][rest_client.py 63][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 18:45:36,867][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:45:36,868][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:45:36,869][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 18:45:36,870][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 18:45:36,870][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:45:36,871][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:45:37,233][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:45:37,233][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:45:37,239][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......
+[2021-06-20 18:45:37,239][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......成功
+[2021-06-20 18:45:37,240][test_Authorize.py 34][INFO]: *************** 开始执行用例 ***************
+[2021-06-20 18:45:37,240][rest_client.py 55][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 18:45:37,240][rest_client.py 56][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 18:45:37,240][rest_client.py 58][INFO]: 接口请求头 ==>> null
+[2021-06-20 18:45:37,240][rest_client.py 59][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 18:45:37,240][rest_client.py 60][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 18:45:37,240][rest_client.py 61][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": "18958149475",
+    "hospitalId": 10379
+}
+[2021-06-20 18:45:37,240][rest_client.py 62][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 18:45:37,240][rest_client.py 63][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 18:45:55,462][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:45:55,463][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:45:55,464][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 18:45:55,465][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 18:45:55,465][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:45:55,466][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:45:55,824][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:45:55,825][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:45:55,830][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......
+[2021-06-20 18:45:55,830][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......成功
+[2021-06-20 18:45:55,831][test_Authorize.py 34][INFO]: *************** 开始执行用例 ***************
+[2021-06-20 18:45:55,831][rest_client.py 55][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 18:45:55,831][rest_client.py 56][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 18:45:55,831][rest_client.py 58][INFO]: 接口请求头 ==>> null
+[2021-06-20 18:45:55,831][rest_client.py 59][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 18:45:55,831][rest_client.py 60][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 18:45:55,831][rest_client.py 61][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": "18958149475",
+    "hospitalId": 10379
+}
+[2021-06-20 18:45:55,831][rest_client.py 62][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 18:45:55,832][rest_client.py 63][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 18:46:37,189][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:46:37,190][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:46:37,191][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 18:46:37,192][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 18:46:37,192][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:46:37,193][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:46:37,554][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 18:46:37,555][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 18:46:37,560][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......
+[2021-06-20 18:46:37,560][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......成功
+[2021-06-20 18:46:37,561][test_Authorize.py 34][INFO]: *************** 开始执行用例 ***************
+[2021-06-20 18:46:37,561][rest_client.py 55][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 18:46:37,561][rest_client.py 56][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 18:46:37,561][rest_client.py 58][INFO]: 接口请求头 ==>> null
+[2021-06-20 18:46:37,561][rest_client.py 59][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 18:46:37,561][rest_client.py 60][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 18:46:37,561][rest_client.py 61][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": "18958149475",
+    "hospitalId": 10379
+}
+[2021-06-20 18:46:37,561][rest_client.py 62][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 18:46:37,561][rest_client.py 63][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 18:46:37,602][YamlUtil.py 22][INFO]: 加载 F:\project\pythonInterfaceTest/token.yml 文件......
+[2021-06-20 18:46:37,603][YamlUtil.py 25][INFO]: 写入 F:\project\pythonInterfaceTest/token.yml 文件......成功
+[2021-06-20 19:27:03,752][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 19:27:03,753][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 19:27:03,754][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 19:27:03,754][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 19:27:03,800][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 19:27:03,801][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 19:27:03,808][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest/token.yml 文件......
+[2021-06-20 19:27:03,808][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest/token.yml 文件......成功
+[2021-06-20 19:27:03,809][test_Authorize.py 34][INFO]: *************** 开始执行用例 ***************
+[2021-06-20 19:27:03,809][rest_client.py 70][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 19:27:03,809][rest_client.py 71][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 19:27:03,809][rest_client.py 73][INFO]: 接口请求头 ==>> null
+[2021-06-20 19:27:03,809][rest_client.py 74][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 19:27:03,809][rest_client.py 75][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 19:27:03,809][rest_client.py 76][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": "18958149475",
+    "hospitalId": 10379
+}
+[2021-06-20 19:27:03,809][rest_client.py 77][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 19:27:03,809][rest_client.py 78][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 19:27:20,707][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 19:27:20,708][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 19:27:20,711][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 19:27:20,712][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 19:27:20,713][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 19:27:20,713][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 19:27:21,080][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 19:27:21,081][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 19:27:21,086][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......
+[2021-06-20 19:27:21,087][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest\testcases\api_test/token.yml 文件......成功
+[2021-06-20 19:27:21,088][test_Authorize.py 34][INFO]: *************** 开始执行用例 ***************
+[2021-06-20 19:27:21,088][rest_client.py 70][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 19:27:21,088][rest_client.py 71][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 19:27:21,088][rest_client.py 73][INFO]: 接口请求头 ==>> null
+[2021-06-20 19:27:21,088][rest_client.py 74][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 19:27:21,088][rest_client.py 75][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 19:27:21,088][rest_client.py 76][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": "18958149475",
+    "hospitalId": 10379
+}
+[2021-06-20 19:27:21,088][rest_client.py 77][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 19:27:21,088][rest_client.py 78][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 19:29:28,713][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 19:29:28,714][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 19:29:28,714][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 19:29:28,715][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 19:29:28,770][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 19:29:28,771][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 19:29:28,779][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest/token.yml 文件......
+[2021-06-20 19:29:28,780][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest/token.yml 文件......成功
+[2021-06-20 19:29:28,781][test_Authorize.py 34][INFO]: *************** 开始执行用例 ***************
+[2021-06-20 19:29:28,781][rest_client.py 55][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 19:29:28,781][rest_client.py 56][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 19:29:28,781][rest_client.py 58][INFO]: 接口请求头 ==>> null
+[2021-06-20 19:29:28,781][rest_client.py 59][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 19:29:28,781][rest_client.py 60][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 19:29:28,781][rest_client.py 61][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": "18958149475",
+    "hospitalId": 10379
+}
+[2021-06-20 19:29:28,781][rest_client.py 62][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 19:29:28,782][rest_client.py 63][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 19:29:28,832][YamlUtil.py 22][INFO]: 加载 F:\project\pythonInterfaceTest/token.yml 文件......
+[2021-06-20 19:29:28,833][YamlUtil.py 25][INFO]: 写入 F:\project\pythonInterfaceTest/token.yml 文件......成功
+[2021-06-20 19:33:39,192][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 19:33:39,193][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 19:33:39,194][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 19:33:39,194][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 19:33:39,247][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 19:33:39,248][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 19:33:39,257][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest/token.yml 文件......
+[2021-06-20 19:33:39,257][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest/token.yml 文件......成功
+[2021-06-20 19:33:39,258][test_Authorize.py 34][INFO]: *************** 开始执行用例 ***************
+[2021-06-20 19:33:39,258][rest_client.py 55][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 19:33:39,258][rest_client.py 56][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 19:33:39,258][rest_client.py 58][INFO]: 接口请求头 ==>> null
+[2021-06-20 19:33:39,258][rest_client.py 59][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 19:33:39,259][rest_client.py 60][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 19:33:39,259][rest_client.py 61][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": "18958149475",
+    "hospitalId": 10379
+}
+[2021-06-20 19:33:39,259][rest_client.py 62][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 19:33:39,259][rest_client.py 63][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 19:33:39,304][YamlUtil.py 22][INFO]: 加载 F:\project\pythonInterfaceTest/token.yml 文件......
+[2021-06-20 19:33:39,305][YamlUtil.py 25][INFO]: 写入 F:\project\pythonInterfaceTest/token.yml 文件......成功
+[2021-06-20 19:41:31,316][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 19:41:31,317][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 19:41:31,317][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 19:41:31,318][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 19:41:31,373][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 19:41:31,374][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 19:41:31,383][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest/token.yml 文件......
+[2021-06-20 19:41:31,383][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest/token.yml 文件......成功
+[2021-06-20 19:41:31,384][test_Authorize.py 34][INFO]: *************** 开始执行用例 ***************
+[2021-06-20 19:41:31,385][rest_client.py 55][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 19:41:31,385][rest_client.py 56][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 19:41:31,385][rest_client.py 58][INFO]: 接口请求头 ==>> null
+[2021-06-20 19:41:31,385][rest_client.py 59][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 19:41:31,385][rest_client.py 60][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 19:41:31,385][rest_client.py 61][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": "18958149475",
+    "hospitalId": 10379
+}
+[2021-06-20 19:41:31,385][rest_client.py 62][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 19:41:31,385][rest_client.py 63][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 19:41:31,456][YamlUtil.py 22][INFO]: 加载 F:\project\pythonInterfaceTest/token.yml 文件......
+[2021-06-20 19:41:31,457][YamlUtil.py 25][INFO]: 写入 F:\project\pythonInterfaceTest/token.yml 文件......成功
+[2021-06-20 19:43:10,988][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 19:43:10,989][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 19:43:10,989][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 19:43:10,990][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 19:43:11,046][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 19:43:11,047][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 19:43:11,056][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest/token.yml 文件......
+[2021-06-20 19:43:11,057][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest/token.yml 文件......成功
+[2021-06-20 19:43:11,058][test_Authorize.py 34][INFO]: *************** 开始执行用例 ***************
+[2021-06-20 19:43:11,058][rest_client.py 55][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 19:43:11,058][rest_client.py 56][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 19:43:11,058][rest_client.py 58][INFO]: 接口请求头 ==>> null
+[2021-06-20 19:43:11,058][rest_client.py 59][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 19:43:11,058][rest_client.py 60][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 19:43:11,059][rest_client.py 61][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": "18958149475",
+    "hospitalId": 10379
+}
+[2021-06-20 19:43:11,059][rest_client.py 62][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 19:43:11,059][rest_client.py 63][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 19:43:11,115][YamlUtil.py 22][INFO]: 加载 F:\project\pythonInterfaceTest/token.yml 文件......
+[2021-06-20 19:43:11,116][YamlUtil.py 25][INFO]: 写入 F:\project\pythonInterfaceTest/token.yml 文件......成功
+[2021-06-20 19:43:59,722][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 19:43:59,724][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 19:43:59,724][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 19:43:59,724][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 19:43:59,780][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 19:43:59,781][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 19:43:59,791][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest/token.yml 文件......
+[2021-06-20 19:43:59,791][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest/token.yml 文件......成功
+[2021-06-20 19:43:59,792][test_Authorize.py 34][INFO]: *************** 开始执行用例 ***************
+[2021-06-20 19:43:59,792][rest_client.py 55][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 19:43:59,792][rest_client.py 56][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 19:43:59,792][rest_client.py 58][INFO]: 接口请求头 ==>> null
+[2021-06-20 19:43:59,792][rest_client.py 59][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 19:43:59,792][rest_client.py 60][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 19:43:59,792][rest_client.py 61][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": "18958149475",
+    "hospitalId": 10379
+}
+[2021-06-20 19:43:59,792][rest_client.py 62][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 19:43:59,793][rest_client.py 63][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 19:43:59,830][YamlUtil.py 22][INFO]: 加载 F:\project\pythonInterfaceTest/token.yml 文件......
+[2021-06-20 19:43:59,831][YamlUtil.py 25][INFO]: 写入 F:\project\pythonInterfaceTest/token.yml 文件......成功
+[2021-06-20 19:45:52,145][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 19:45:52,146][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 19:45:52,146][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 19:45:52,147][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 19:45:52,192][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 19:45:52,193][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 19:45:52,200][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest/token.yml 文件......
+[2021-06-20 19:45:52,200][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest/token.yml 文件......成功
+[2021-06-20 19:45:52,201][test_Authorize.py 34][INFO]: *************** 开始执行用例 ***************
+[2021-06-20 19:45:52,201][rest_client.py 55][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 19:45:52,201][rest_client.py 56][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 19:45:52,201][rest_client.py 58][INFO]: 接口请求头 ==>> null
+[2021-06-20 19:45:52,201][rest_client.py 59][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 19:45:52,201][rest_client.py 60][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 19:45:52,201][rest_client.py 61][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": "18958149475",
+    "hospitalId": 10379
+}
+[2021-06-20 19:45:52,201][rest_client.py 62][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 19:45:52,202][rest_client.py 63][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 19:45:52,251][YamlUtil.py 22][INFO]: 加载 F:\project\pythonInterfaceTest/token.yml 文件......
+[2021-06-20 19:45:52,252][YamlUtil.py 25][INFO]: 写入 F:\project\pythonInterfaceTest/token.yml 文件......成功
+[2021-06-20 19:47:26,830][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 19:47:26,831][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 19:47:26,831][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 19:47:26,832][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 19:47:26,878][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 19:47:26,879][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 19:47:26,885][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest/token.yml 文件......
+[2021-06-20 19:47:26,886][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest/token.yml 文件......成功
+[2021-06-20 19:47:26,887][test_Authorize.py 34][INFO]: *************** 开始执行用例 ***************
+[2021-06-20 19:47:26,887][rest_client.py 55][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 19:47:26,887][rest_client.py 56][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 19:47:26,887][rest_client.py 58][INFO]: 接口请求头 ==>> null
+[2021-06-20 19:47:26,887][rest_client.py 59][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 19:47:26,887][rest_client.py 60][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 19:47:26,887][rest_client.py 61][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": "18958149475",
+    "hospitalId": 10379
+}
+[2021-06-20 19:47:26,887][rest_client.py 62][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 19:47:26,887][rest_client.py 63][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 19:47:26,937][YamlUtil.py 22][INFO]: 加载 F:\project\pythonInterfaceTest/token.yml 文件......
+[2021-06-20 19:47:26,938][YamlUtil.py 25][INFO]: 写入 F:\project\pythonInterfaceTest/token.yml 文件......成功
+[2021-06-20 19:55:55,571][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 19:55:55,572][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 19:55:55,572][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 19:55:55,573][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 19:55:55,621][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 19:55:55,622][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 19:55:55,629][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest/token.yml 文件......
+[2021-06-20 19:55:55,629][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest/token.yml 文件......成功
+[2021-06-20 19:55:55,630][test_Authorize.py 35][INFO]: *************** 开始执行用例 ***************
+[2021-06-20 19:55:55,630][rest_client.py 55][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 19:55:55,630][rest_client.py 56][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 19:55:55,631][rest_client.py 58][INFO]: 接口请求头 ==>> null
+[2021-06-20 19:55:55,631][rest_client.py 59][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 19:55:55,631][rest_client.py 60][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 19:55:55,631][rest_client.py 61][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": "18958149475",
+    "hospitalId": 10379
+}
+[2021-06-20 19:55:55,631][rest_client.py 62][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 19:55:55,631][rest_client.py 63][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 19:55:55,696][YamlUtil.py 22][INFO]: 加载 F:\project\pythonInterfaceTest/token.yml 文件......
+[2021-06-20 19:55:55,697][YamlUtil.py 25][INFO]: 写入 F:\project\pythonInterfaceTest/token.yml 文件......成功
+[2021-06-20 19:59:05,337][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 19:59:05,339][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 19:59:05,339][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 19:59:05,339][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 19:59:05,388][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 19:59:05,388][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 19:59:05,395][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest/token.yml 文件......
+[2021-06-20 19:59:05,395][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest/token.yml 文件......成功
+[2021-06-20 19:59:05,396][test_Authorize.py 37][INFO]: *************** 开始执行用例 ***************
+[2021-06-20 19:59:05,396][rest_client.py 55][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 19:59:05,397][rest_client.py 56][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 19:59:05,397][rest_client.py 58][INFO]: 接口请求头 ==>> null
+[2021-06-20 19:59:05,397][rest_client.py 59][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 19:59:05,397][rest_client.py 60][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 19:59:05,397][rest_client.py 61][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": "18958149475",
+    "hospitalId": 10379
+}
+[2021-06-20 19:59:05,397][rest_client.py 62][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 19:59:05,397][rest_client.py 63][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 19:59:05,478][YamlUtil.py 22][INFO]: 加载 F:\project\pythonInterfaceTest/token.yml 文件......
+[2021-06-20 19:59:05,479][YamlUtil.py 25][INFO]: 写入 F:\project\pythonInterfaceTest/token.yml 文件......成功
+[2021-06-20 19:59:05,479][test_Authorize.py 48][INFO]: *************** 结束执行用例 ***************
+[2021-06-20 19:59:38,495][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 19:59:38,496][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 19:59:38,496][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 19:59:38,497][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 19:59:38,544][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 19:59:38,545][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 19:59:38,552][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest/token.yml 文件......
+[2021-06-20 19:59:38,552][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest/token.yml 文件......成功
+[2021-06-20 19:59:38,553][test_Authorize.py 37][INFO]: *************** 开始执行用例 ***************
+[2021-06-20 19:59:38,553][rest_client.py 55][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 19:59:38,553][rest_client.py 56][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 19:59:38,553][rest_client.py 58][INFO]: 接口请求头 ==>> null
+[2021-06-20 19:59:38,554][rest_client.py 59][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 19:59:38,554][rest_client.py 60][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 19:59:38,554][rest_client.py 61][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": "18958149475",
+    "hospitalId": 10379
+}
+[2021-06-20 19:59:38,554][rest_client.py 62][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 19:59:38,554][rest_client.py 63][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 19:59:38,594][YamlUtil.py 22][INFO]: 加载 F:\project\pythonInterfaceTest/token.yml 文件......
+[2021-06-20 19:59:38,595][YamlUtil.py 25][INFO]: 写入 F:\project\pythonInterfaceTest/token.yml 文件......成功
+[2021-06-20 19:59:38,595][test_Authorize.py 48][INFO]: *************** 结束执行用例 ***************
+[2021-06-20 20:00:15,343][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 20:00:15,344][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 20:00:15,344][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 20:00:15,345][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 20:00:15,390][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 20:00:15,392][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 20:00:15,400][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest/token.yml 文件......
+[2021-06-20 20:00:15,401][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest/token.yml 文件......成功
+[2021-06-20 20:00:15,401][test_Authorize.py 37][INFO]: *************** 开始执行用例 ***************
+[2021-06-20 20:00:15,402][rest_client.py 55][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 20:00:15,402][rest_client.py 56][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 20:00:15,402][rest_client.py 58][INFO]: 接口请求头 ==>> null
+[2021-06-20 20:00:15,402][rest_client.py 59][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 20:00:15,402][rest_client.py 60][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 20:00:15,402][rest_client.py 61][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": "18958149475",
+    "hospitalId": 10379
+}
+[2021-06-20 20:00:15,402][rest_client.py 62][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 20:00:15,402][rest_client.py 63][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 20:00:15,449][YamlUtil.py 22][INFO]: 加载 F:\project\pythonInterfaceTest/token.yml 文件......
+[2021-06-20 20:00:15,450][YamlUtil.py 25][INFO]: 写入 F:\project\pythonInterfaceTest/token.yml 文件......成功
+[2021-06-20 20:00:15,450][test_Authorize.py 48][INFO]: *************** 结束执行用例 ***************
+[2021-06-20 20:04:16,008][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 20:04:16,009][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 20:04:16,009][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 20:04:16,010][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 20:04:16,057][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 20:04:16,058][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 20:04:16,064][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest/token.yml 文件......
+[2021-06-20 20:04:16,064][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest/token.yml 文件......成功
+[2021-06-20 20:04:16,065][test_Authorize.py 37][INFO]: *************** 开始执行用例 ***************
+[2021-06-20 20:04:16,065][rest_client.py 55][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 20:04:16,066][rest_client.py 56][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 20:04:16,066][rest_client.py 58][INFO]: 接口请求头 ==>> null
+[2021-06-20 20:04:16,066][rest_client.py 59][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 20:04:16,066][rest_client.py 60][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 20:04:16,066][rest_client.py 61][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": "18958149475",
+    "hospitalId": 10379
+}
+[2021-06-20 20:04:16,066][rest_client.py 62][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 20:04:16,066][rest_client.py 63][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 20:05:14,003][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 20:05:14,004][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 20:05:14,005][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 20:05:14,005][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 20:05:14,052][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 20:05:14,053][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 20:05:14,059][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest/token.yml 文件......
+[2021-06-20 20:05:14,060][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest/token.yml 文件......成功
+[2021-06-20 20:05:14,061][test_Authorize.py 37][INFO]: *************** 开始执行用例 ***************
+[2021-06-20 20:05:14,061][rest_client.py 55][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 20:05:14,061][rest_client.py 56][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 20:05:14,061][rest_client.py 58][INFO]: 接口请求头 ==>> null
+[2021-06-20 20:05:14,061][rest_client.py 59][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 20:05:14,061][rest_client.py 60][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 20:05:14,061][rest_client.py 61][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": "18958149475",
+    "hospitalId": 10379
+}
+[2021-06-20 20:05:14,061][rest_client.py 62][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 20:05:14,061][rest_client.py 63][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 20:05:53,322][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 20:05:53,323][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 20:05:53,323][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 20:05:53,324][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]]} 
+[2021-06-20 20:05:53,372][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 20:05:53,372][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 20:05:53,379][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest/token.yml 文件......
+[2021-06-20 20:05:53,380][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest/token.yml 文件......成功
+[2021-06-20 20:05:53,380][test_Authorize.py 37][INFO]: *************** 开始执行用例 ***************
+[2021-06-20 20:05:53,381][rest_client.py 55][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 20:05:53,381][rest_client.py 56][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 20:05:53,381][rest_client.py 58][INFO]: 接口请求头 ==>> null
+[2021-06-20 20:05:53,381][rest_client.py 59][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 20:05:53,381][rest_client.py 60][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 20:05:53,381][rest_client.py 61][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": "18958149475",
+    "hospitalId": 10379
+}
+[2021-06-20 20:05:53,381][rest_client.py 62][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 20:05:53,381][rest_client.py 63][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 20:05:53,423][test_Authorize.py 46][INFO]: 出参：{"code":0,"system":"user","errMsg":"登录成功!","data":{"id":"1397753022024544258","familyId":"0","code":"","nickname":null,"email":null,"mobile":"18958149475","regMember":null,"lastLoginTime":"2021-06-20 20:05:53","loginTimes":"102","hospitalId":"10379","invitationCode":null,"activeFlag":"YES","openId":"oAYeb5b-5ib9ab-2t_UeQBsrI6Yw","unionId":"oFKGw5xZpiqMG_rQ7PS65QhX8SYI","origin":null,"token":"eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJsb2dpbl90b2tlbiIsImhvc3BpdGFsSWQiOjEwMzc5LCJtb2JpbGUiOiIxODk1ODE0OTQ3NSIsImlzcyI6InpoaWNhbGwiLCJmcm9tIjoiOCIsInR5cGUiOiJQQVRJRU5UIiwiZXhwaXJlc19pbiI6IjE2MjQxOTQzNTMiLCJpYXQiOjE2MjQxOTA3NTMyMzEsImFjY291bnQiOiIxMzk3NzUzMDIyMDI0NTQ0MjU4In0.Pm9UcMMcRg7u1IFMtNtsuVPIQh16jCaM22cealNyoQI"}}
+[2021-06-20 20:05:53,423][YamlUtil.py 22][INFO]: 加载 F:\project\pythonInterfaceTest/token.yml 文件......
+[2021-06-20 20:05:53,424][YamlUtil.py 25][INFO]: 写入 F:\project\pythonInterfaceTest/token.yml 文件......成功
+[2021-06-20 20:05:53,425][test_Authorize.py 49][INFO]: *************** 结束执行用例 ***************
+[2021-06-20 21:03:39,989][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 21:03:39,990][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 21:03:39,990][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 21:03:39,991][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 21:05:56,258][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 21:05:56,259][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 21:05:56,259][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 21:05:56,260][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 21:05:56,260][TestInit.py 31][INFO]: *************** 初始化开始 ***************
+[2021-06-20 21:05:56,261][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 21:05:56,261][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 21:05:56,261][rest_client.py 55][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 21:05:56,261][rest_client.py 56][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 21:05:56,262][rest_client.py 58][INFO]: 接口请求头 ==>> null
+[2021-06-20 21:05:56,262][rest_client.py 59][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 21:05:56,262][rest_client.py 60][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 21:05:56,262][rest_client.py 61][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": 18958149475,
+    "hospitalId": 10379
+}
+[2021-06-20 21:05:56,262][rest_client.py 62][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 21:05:56,262][rest_client.py 63][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 21:05:56,324][TestInit.py 40][INFO]: 出参：{"code":0,"system":"user","errMsg":"登录成功!","data":{"id":"1397753022024544258","familyId":"0","code":"","nickname":null,"email":null,"mobile":"18958149475","regMember":null,"lastLoginTime":"2021-06-20 21:05:56","loginTimes":"103","hospitalId":"10379","invitationCode":null,"activeFlag":"YES","openId":"oAYeb5b-5ib9ab-2t_UeQBsrI6Yw","unionId":"oFKGw5xZpiqMG_rQ7PS65QhX8SYI","origin":null,"token":"eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJsb2dpbl90b2tlbiIsImhvc3BpdGFsSWQiOjEwMzc5LCJtb2JpbGUiOiIxODk1ODE0OTQ3NSIsImlzcyI6InpoaWNhbGwiLCJmcm9tIjoiOCIsInR5cGUiOiJQQVRJRU5UIiwiZXhwaXJlc19pbiI6IjE2MjQxOTc5NTYiLCJpYXQiOjE2MjQxOTQzNTYwODEsImFjY291bnQiOiIxMzk3NzUzMDIyMDI0NTQ0MjU4In0.JujOX5MCK1qnDXchfrvxcansX3BH-7HKTpu_5UCSBMU"}}
+[2021-06-20 21:07:14,285][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 21:07:14,286][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 21:07:14,287][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 21:07:14,287][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 21:07:14,288][TestInit.py 33][INFO]: *************** 初始化开始 ***************
+[2021-06-20 21:07:14,288][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 21:07:14,289][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 21:07:14,289][rest_client.py 55][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 21:07:14,289][rest_client.py 56][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 21:07:14,289][rest_client.py 58][INFO]: 接口请求头 ==>> null
+[2021-06-20 21:07:14,289][rest_client.py 59][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 21:07:14,289][rest_client.py 60][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 21:07:14,289][rest_client.py 61][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": 18958149475,
+    "hospitalId": 10379
+}
+[2021-06-20 21:07:14,289][rest_client.py 62][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 21:07:14,290][rest_client.py 63][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 21:07:14,334][TestInit.py 43][INFO]: 出参：{"code":0,"system":"user","errMsg":"登录成功!","data":{"id":"1397753022024544258","familyId":"0","code":"","nickname":null,"email":null,"mobile":"18958149475","regMember":null,"lastLoginTime":"2021-06-20 21:07:14","loginTimes":"104","hospitalId":"10379","invitationCode":null,"activeFlag":"YES","openId":"oAYeb5b-5ib9ab-2t_UeQBsrI6Yw","unionId":"oFKGw5xZpiqMG_rQ7PS65QhX8SYI","origin":null,"token":"eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJsb2dpbl90b2tlbiIsImhvc3BpdGFsSWQiOjEwMzc5LCJtb2JpbGUiOiIxODk1ODE0OTQ3NSIsImlzcyI6InpoaWNhbGwiLCJmcm9tIjoiOCIsInR5cGUiOiJQQVRJRU5UIiwiZXhwaXJlc19pbiI6IjE2MjQxOTgwMzQiLCJpYXQiOjE2MjQxOTQ0MzQwODksImFjY291bnQiOiIxMzk3NzUzMDIyMDI0NTQ0MjU4In0.50SUJLdieXkcsbKk-Zhsqi4m6j8iQYPmFrr4mmsmqec"}}
+[2021-06-20 21:07:14,334][YamlUtil.py 22][INFO]: 加载 F:\project\pythonInterfaceTest/token.yml 文件......
+[2021-06-20 21:07:14,335][YamlUtil.py 25][INFO]: 写入 F:\project\pythonInterfaceTest/token.yml 文件......成功
+[2021-06-20 21:07:14,335][TestInit.py 53][INFO]: ===初始化获取token接口调用正常，写入token.yml文件成功===
+[2021-06-20 21:07:14,335][TestInit.py 54][INFO]: *************** 初始化结束 ***************
+[2021-06-20 21:40:46,409][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 21:40:46,410][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 21:40:46,410][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 21:40:46,411][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 21:40:46,412][TestInit.py 33][INFO]: *************** 初始化开始 ***************
+[2021-06-20 21:40:46,412][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 21:40:46,413][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 21:40:46,413][rest_client.py 55][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 21:40:46,413][rest_client.py 56][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 21:40:46,413][rest_client.py 58][INFO]: 接口请求头 ==>> null
+[2021-06-20 21:40:46,413][rest_client.py 59][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 21:40:46,413][rest_client.py 60][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 21:40:46,413][rest_client.py 61][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": 18958149475,
+    "hospitalId": 10379
+}
+[2021-06-20 21:40:46,413][rest_client.py 62][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 21:40:46,413][rest_client.py 63][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 21:40:46,528][TestInit.py 43][INFO]: 出参：{"code":0,"system":"user","errMsg":"登录成功!","data":{"id":"1397753022024544258","familyId":"0","code":"","nickname":null,"email":null,"mobile":"18958149475","regMember":null,"lastLoginTime":"2021-06-20 21:40:46","loginTimes":"105","hospitalId":"10379","invitationCode":null,"activeFlag":"YES","openId":"oAYeb5b-5ib9ab-2t_UeQBsrI6Yw","unionId":"oFKGw5xZpiqMG_rQ7PS65QhX8SYI","origin":null,"token":"eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJsb2dpbl90b2tlbiIsImhvc3BpdGFsSWQiOjEwMzc5LCJtb2JpbGUiOiIxODk1ODE0OTQ3NSIsImlzcyI6InpoaWNhbGwiLCJmcm9tIjoiOCIsInR5cGUiOiJQQVRJRU5UIiwiZXhwaXJlc19pbiI6IjE2MjQyMDAwNDYiLCJpYXQiOjE2MjQxOTY0NDYyNTIsImFjY291bnQiOiIxMzk3NzUzMDIyMDI0NTQ0MjU4In0.mfsECwKA1XGWE_D0Qk5VKkitqq-fqUc95Txd1xclzGw"}}
+[2021-06-20 21:40:46,528][YamlUtil.py 22][INFO]: 加载 F:\project\pythonInterfaceTest/token.yml 文件......
+[2021-06-20 21:40:46,529][YamlUtil.py 25][INFO]: 写入 F:\project\pythonInterfaceTest/token.yml 文件......成功
+[2021-06-20 21:40:46,529][TestInit.py 53][INFO]: ===初始化获取token接口调用正常，写入token.yml文件成功===
+[2021-06-20 21:40:46,529][TestInit.py 54][INFO]: *************** 初始化结束 ***************
+[2021-06-20 21:40:46,882][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 21:40:46,884][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]], 'test_getVisitList': [['', True, True, 10379], [None, True, True, 10379], ['1397753022024544258', True, True, 10379]]} 
+[2021-06-20 21:40:46,932][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 21:40:46,933][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 21:40:46,933][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest/token.yml 文件......
+[2021-06-20 21:40:46,933][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'token': 'eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJsb2dpbl90b2tlbiIsImhvc3BpdGFsSWQiOjEwMzc5LCJtb2JpbGUiOiIxODk1ODE0OTQ3NSIsImlzcyI6InpoaWNhbGwiLCJmcm9tIjoiOCIsInR5cGUiOiJQQVRJRU5UIiwiZXhwaXJlc19pbiI6IjE2MjQyMDAwNDYiLCJpYXQiOjE2MjQxOTY0NDYyNTIsImFjY291bnQiOiIxMzk3NzUzMDIyMDI0NTQ0MjU4In0.mfsECwKA1XGWE_D0Qk5VKkitqq-fqUc95Txd1xclzGw'} 
+[2021-06-20 21:40:46,941][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest/token.yml 文件......
+[2021-06-20 21:40:46,941][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest/token.yml 文件......成功
+[2021-06-20 21:42:08,000][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 21:42:08,001][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 21:42:08,001][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 21:42:08,002][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 21:42:08,003][TestInit.py 33][INFO]: *************** 初始化开始 ***************
+[2021-06-20 21:42:08,003][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 21:42:08,003][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 21:42:08,003][rest_client.py 55][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 21:42:08,004][rest_client.py 56][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 21:42:08,004][rest_client.py 58][INFO]: 接口请求头 ==>> null
+[2021-06-20 21:42:08,004][rest_client.py 59][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 21:42:08,004][rest_client.py 60][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 21:42:08,004][rest_client.py 61][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": 18958149475,
+    "hospitalId": 10379
+}
+[2021-06-20 21:42:08,004][rest_client.py 62][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 21:42:08,004][rest_client.py 63][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 21:42:08,055][TestInit.py 43][INFO]: 出参：{"code":0,"system":"user","errMsg":"登录成功!","data":{"id":"1397753022024544258","familyId":"0","code":"","nickname":null,"email":null,"mobile":"18958149475","regMember":null,"lastLoginTime":"2021-06-20 21:42:07","loginTimes":"106","hospitalId":"10379","invitationCode":null,"activeFlag":"YES","openId":"oAYeb5b-5ib9ab-2t_UeQBsrI6Yw","unionId":"oFKGw5xZpiqMG_rQ7PS65QhX8SYI","origin":null,"token":"eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJsb2dpbl90b2tlbiIsImhvc3BpdGFsSWQiOjEwMzc5LCJtb2JpbGUiOiIxODk1ODE0OTQ3NSIsImlzcyI6InpoaWNhbGwiLCJmcm9tIjoiOCIsInR5cGUiOiJQQVRJRU5UIiwiZXhwaXJlc19pbiI6IjE2MjQyMDAxMjciLCJpYXQiOjE2MjQxOTY1Mjc3NzgsImFjY291bnQiOiIxMzk3NzUzMDIyMDI0NTQ0MjU4In0.TAgXIOkHZfmPiktowYO7amAkFnOUSST8tkgxdv_rd80"}}
+[2021-06-20 21:42:08,055][YamlUtil.py 22][INFO]: 加载 F:\project\pythonInterfaceTest/token.yml 文件......
+[2021-06-20 21:42:08,056][YamlUtil.py 25][INFO]: 写入 F:\project\pythonInterfaceTest/token.yml 文件......成功
+[2021-06-20 21:42:08,056][TestInit.py 53][INFO]: ===初始化获取token接口调用正常，写入token.yml文件成功===
+[2021-06-20 21:42:08,056][TestInit.py 54][INFO]: *************** 初始化结束 ***************
+[2021-06-20 21:42:08,382][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 21:42:08,384][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]], 'test_getVisitList': [['', True, True, 10379], [None, True, True, 10379], ['1397753022024544258', True, True, 10379]]} 
+[2021-06-20 21:42:08,429][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 21:42:08,430][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 21:42:08,430][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest/token.yml 文件......
+[2021-06-20 21:42:08,431][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'token': 'eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJsb2dpbl90b2tlbiIsImhvc3BpdGFsSWQiOjEwMzc5LCJtb2JpbGUiOiIxODk1ODE0OTQ3NSIsImlzcyI6InpoaWNhbGwiLCJmcm9tIjoiOCIsInR5cGUiOiJQQVRJRU5UIiwiZXhwaXJlc19pbiI6IjE2MjQyMDAxMjciLCJpYXQiOjE2MjQxOTY1Mjc3NzgsImFjY291bnQiOiIxMzk3NzUzMDIyMDI0NTQ0MjU4In0.TAgXIOkHZfmPiktowYO7amAkFnOUSST8tkgxdv_rd80'} 
+[2021-06-20 21:42:08,438][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest/token.yml 文件......
+[2021-06-20 21:42:08,439][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest/token.yml 文件......成功
+[2021-06-20 21:42:08,440][rest_client.py 55][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/patient/list
+[2021-06-20 21:42:08,440][rest_client.py 56][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 21:42:08,440][rest_client.py 58][INFO]: 接口请求头 ==>> {
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJsb2dpbl90b2tlbiIsImhvc3BpdGFsSWQiOjEwMzc5LCJtb2JpbGUiOiIxODk1ODE0OTQ3NSIsImlzcyI6InpoaWNhbGwiLCJmcm9tIjoiOCIsInR5cGUiOiJQQVRJRU5UIiwiZXhwaXJlc19pbiI6IjE2MjQyMDAxMjciLCJpYXQiOjE2MjQxOTY1Mjc3NzgsImFjY291bnQiOiIxMzk3NzUzMDIyMDI0NTQ0MjU4In0.TAgXIOkHZfmPiktowYO7amAkFnOUSST8tkgxdv_rd80"
+}
+[2021-06-20 21:42:08,441][rest_client.py 59][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 21:42:08,441][rest_client.py 60][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 21:42:08,441][rest_client.py 61][INFO]: 接口请求体 json 参数 ==>> {
+    "accountId": "",
+    "withCard": true,
+    "isShowBlank": true,
+    "hospitalId": 10379
+}
+[2021-06-20 21:42:08,441][rest_client.py 62][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 21:42:08,441][rest_client.py 63][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 21:42:08,512][rest_client.py 55][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/patient/list
+[2021-06-20 21:42:08,512][rest_client.py 56][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 21:42:08,512][rest_client.py 58][INFO]: 接口请求头 ==>> {
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJsb2dpbl90b2tlbiIsImhvc3BpdGFsSWQiOjEwMzc5LCJtb2JpbGUiOiIxODk1ODE0OTQ3NSIsImlzcyI6InpoaWNhbGwiLCJmcm9tIjoiOCIsInR5cGUiOiJQQVRJRU5UIiwiZXhwaXJlc19pbiI6IjE2MjQyMDAxMjciLCJpYXQiOjE2MjQxOTY1Mjc3NzgsImFjY291bnQiOiIxMzk3NzUzMDIyMDI0NTQ0MjU4In0.TAgXIOkHZfmPiktowYO7amAkFnOUSST8tkgxdv_rd80"
+}
+[2021-06-20 21:42:08,512][rest_client.py 59][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 21:42:08,512][rest_client.py 60][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 21:42:08,512][rest_client.py 61][INFO]: 接口请求体 json 参数 ==>> {
+    "accountId": null,
+    "withCard": true,
+    "isShowBlank": true,
+    "hospitalId": 10379
+}
+[2021-06-20 21:42:08,513][rest_client.py 62][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 21:42:08,513][rest_client.py 63][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 21:42:08,540][rest_client.py 55][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/patient/list
+[2021-06-20 21:42:08,540][rest_client.py 56][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 21:42:08,540][rest_client.py 58][INFO]: 接口请求头 ==>> {
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJsb2dpbl90b2tlbiIsImhvc3BpdGFsSWQiOjEwMzc5LCJtb2JpbGUiOiIxODk1ODE0OTQ3NSIsImlzcyI6InpoaWNhbGwiLCJmcm9tIjoiOCIsInR5cGUiOiJQQVRJRU5UIiwiZXhwaXJlc19pbiI6IjE2MjQyMDAxMjciLCJpYXQiOjE2MjQxOTY1Mjc3NzgsImFjY291bnQiOiIxMzk3NzUzMDIyMDI0NTQ0MjU4In0.TAgXIOkHZfmPiktowYO7amAkFnOUSST8tkgxdv_rd80"
+}
+[2021-06-20 21:42:08,540][rest_client.py 59][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 21:42:08,540][rest_client.py 60][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 21:42:08,540][rest_client.py 61][INFO]: 接口请求体 json 参数 ==>> {
+    "accountId": "1397753022024544258",
+    "withCard": true,
+    "isShowBlank": true,
+    "hospitalId": 10379
+}
+[2021-06-20 21:42:08,540][rest_client.py 62][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 21:42:08,540][rest_client.py 63][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 21:42:08,576][test_Authorize.py 72][INFO]: *************** 结束执行用例 ***************
+[2021-06-20 21:45:53,082][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 21:45:53,083][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 21:45:53,084][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 21:45:53,084][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 21:45:53,085][TestInit.py 33][INFO]: *************** 初始化开始 ***************
+[2021-06-20 21:45:53,085][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 21:45:53,086][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 21:45:53,086][rest_client.py 55][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 21:45:53,086][rest_client.py 56][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 21:45:53,086][rest_client.py 58][INFO]: 接口请求头 ==>> null
+[2021-06-20 21:45:53,086][rest_client.py 59][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 21:45:53,086][rest_client.py 60][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 21:45:53,086][rest_client.py 61][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": 18958149475,
+    "hospitalId": 10379
+}
+[2021-06-20 21:45:53,087][rest_client.py 62][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 21:45:53,087][rest_client.py 63][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 21:45:53,132][TestInit.py 43][INFO]: 出参：{"code":0,"system":"user","errMsg":"登录成功!","data":{"id":"1397753022024544258","familyId":"0","code":"","nickname":null,"email":null,"mobile":"18958149475","regMember":null,"lastLoginTime":"2021-06-20 21:45:52","loginTimes":"108","hospitalId":"10379","invitationCode":null,"activeFlag":"YES","openId":"oAYeb5b-5ib9ab-2t_UeQBsrI6Yw","unionId":"oFKGw5xZpiqMG_rQ7PS65QhX8SYI","origin":null,"token":"eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJsb2dpbl90b2tlbiIsImhvc3BpdGFsSWQiOjEwMzc5LCJtb2JpbGUiOiIxODk1ODE0OTQ3NSIsImlzcyI6InpoaWNhbGwiLCJmcm9tIjoiOCIsInR5cGUiOiJQQVRJRU5UIiwiZXhwaXJlc19pbiI6IjE2MjQyMDAzNTIiLCJpYXQiOjE2MjQxOTY3NTI4NTAsImFjY291bnQiOiIxMzk3NzUzMDIyMDI0NTQ0MjU4In0.PqNdVq1Y45isaBIGZzWwgYJlXBix1O3EHdSLnsnD8XE"}}
+[2021-06-20 21:45:53,133][YamlUtil.py 22][INFO]: 加载 F:\project\pythonInterfaceTest/token.yml 文件......
+[2021-06-20 21:45:53,133][YamlUtil.py 25][INFO]: 写入 F:\project\pythonInterfaceTest/token.yml 文件......成功
+[2021-06-20 21:45:53,133][TestInit.py 53][INFO]: ===初始化获取token接口调用正常，写入token.yml文件成功===
+[2021-06-20 21:45:53,133][TestInit.py 54][INFO]: *************** 初始化结束 ***************
+[2021-06-20 21:45:53,463][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 21:45:53,465][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]], 'test_getVisitList': [['', True, True, 10379, 14005], [None, True, True, 10379, 14005], ['1397753022024544258', True, True, 10379, 0]]} 
+[2021-06-20 21:45:53,509][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 21:45:53,510][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 21:45:53,510][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest/token.yml 文件......
+[2021-06-20 21:45:53,511][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'token': 'eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJsb2dpbl90b2tlbiIsImhvc3BpdGFsSWQiOjEwMzc5LCJtb2JpbGUiOiIxODk1ODE0OTQ3NSIsImlzcyI6InpoaWNhbGwiLCJmcm9tIjoiOCIsInR5cGUiOiJQQVRJRU5UIiwiZXhwaXJlc19pbiI6IjE2MjQyMDAzNTIiLCJpYXQiOjE2MjQxOTY3NTI4NTAsImFjY291bnQiOiIxMzk3NzUzMDIyMDI0NTQ0MjU4In0.PqNdVq1Y45isaBIGZzWwgYJlXBix1O3EHdSLnsnD8XE'} 
+[2021-06-20 21:45:53,518][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest/token.yml 文件......
+[2021-06-20 21:45:53,518][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest/token.yml 文件......成功
+[2021-06-20 21:45:53,520][rest_client.py 55][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/patient/list
+[2021-06-20 21:45:53,520][rest_client.py 56][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 21:45:53,520][rest_client.py 58][INFO]: 接口请求头 ==>> {
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJsb2dpbl90b2tlbiIsImhvc3BpdGFsSWQiOjEwMzc5LCJtb2JpbGUiOiIxODk1ODE0OTQ3NSIsImlzcyI6InpoaWNhbGwiLCJmcm9tIjoiOCIsInR5cGUiOiJQQVRJRU5UIiwiZXhwaXJlc19pbiI6IjE2MjQyMDAzNTIiLCJpYXQiOjE2MjQxOTY3NTI4NTAsImFjY291bnQiOiIxMzk3NzUzMDIyMDI0NTQ0MjU4In0.PqNdVq1Y45isaBIGZzWwgYJlXBix1O3EHdSLnsnD8XE"
+}
+[2021-06-20 21:45:53,520][rest_client.py 59][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 21:45:53,520][rest_client.py 60][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 21:45:53,520][rest_client.py 61][INFO]: 接口请求体 json 参数 ==>> {
+    "accountId": "",
+    "withCard": true,
+    "isShowBlank": true,
+    "hospitalId": 10379
+}
+[2021-06-20 21:45:53,520][rest_client.py 62][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 21:45:53,521][rest_client.py 63][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 21:45:53,538][test_Authorize.py 72][INFO]: *************** 结束执行用例 ***************
+[2021-06-20 21:45:53,545][rest_client.py 55][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/patient/list
+[2021-06-20 21:45:53,545][rest_client.py 56][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 21:45:53,545][rest_client.py 58][INFO]: 接口请求头 ==>> {
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJsb2dpbl90b2tlbiIsImhvc3BpdGFsSWQiOjEwMzc5LCJtb2JpbGUiOiIxODk1ODE0OTQ3NSIsImlzcyI6InpoaWNhbGwiLCJmcm9tIjoiOCIsInR5cGUiOiJQQVRJRU5UIiwiZXhwaXJlc19pbiI6IjE2MjQyMDAzNTIiLCJpYXQiOjE2MjQxOTY3NTI4NTAsImFjY291bnQiOiIxMzk3NzUzMDIyMDI0NTQ0MjU4In0.PqNdVq1Y45isaBIGZzWwgYJlXBix1O3EHdSLnsnD8XE"
+}
+[2021-06-20 21:45:53,546][rest_client.py 59][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 21:45:53,546][rest_client.py 60][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 21:45:53,546][rest_client.py 61][INFO]: 接口请求体 json 参数 ==>> {
+    "accountId": null,
+    "withCard": true,
+    "isShowBlank": true,
+    "hospitalId": 10379
+}
+[2021-06-20 21:45:53,546][rest_client.py 62][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 21:45:53,546][rest_client.py 63][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 21:45:53,561][test_Authorize.py 72][INFO]: *************** 结束执行用例 ***************
+[2021-06-20 21:45:53,568][rest_client.py 55][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/patient/list
+[2021-06-20 21:45:53,568][rest_client.py 56][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 21:45:53,568][rest_client.py 58][INFO]: 接口请求头 ==>> {
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJsb2dpbl90b2tlbiIsImhvc3BpdGFsSWQiOjEwMzc5LCJtb2JpbGUiOiIxODk1ODE0OTQ3NSIsImlzcyI6InpoaWNhbGwiLCJmcm9tIjoiOCIsInR5cGUiOiJQQVRJRU5UIiwiZXhwaXJlc19pbiI6IjE2MjQyMDAzNTIiLCJpYXQiOjE2MjQxOTY3NTI4NTAsImFjY291bnQiOiIxMzk3NzUzMDIyMDI0NTQ0MjU4In0.PqNdVq1Y45isaBIGZzWwgYJlXBix1O3EHdSLnsnD8XE"
+}
+[2021-06-20 21:45:53,568][rest_client.py 59][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 21:45:53,568][rest_client.py 60][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 21:45:53,568][rest_client.py 61][INFO]: 接口请求体 json 参数 ==>> {
+    "accountId": "1397753022024544258",
+    "withCard": true,
+    "isShowBlank": true,
+    "hospitalId": 10379
+}
+[2021-06-20 21:45:53,568][rest_client.py 62][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 21:45:53,568][rest_client.py 63][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 21:45:53,594][test_Authorize.py 72][INFO]: *************** 结束执行用例 ***************
+[2021-06-20 21:46:54,870][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 21:46:54,871][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 21:46:54,871][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 21:46:54,872][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 21:46:54,872][TestInit.py 33][INFO]: *************** 初始化开始 ***************
+[2021-06-20 21:46:54,872][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 21:46:54,873][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 21:46:54,873][rest_client.py 55][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 21:46:54,873][rest_client.py 56][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 21:46:54,873][rest_client.py 58][INFO]: 接口请求头 ==>> null
+[2021-06-20 21:46:54,873][rest_client.py 59][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 21:46:54,874][rest_client.py 60][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 21:46:54,874][rest_client.py 61][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": 18958149475,
+    "hospitalId": 10379
+}
+[2021-06-20 21:46:54,874][rest_client.py 62][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 21:46:54,874][rest_client.py 63][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 21:46:54,922][TestInit.py 43][INFO]: 出参：{"code":0,"system":"user","errMsg":"登录成功!","data":{"id":"1397753022024544258","familyId":"0","code":"","nickname":null,"email":null,"mobile":"18958149475","regMember":null,"lastLoginTime":"2021-06-20 21:46:54","loginTimes":"109","hospitalId":"10379","invitationCode":null,"activeFlag":"YES","openId":"oAYeb5b-5ib9ab-2t_UeQBsrI6Yw","unionId":"oFKGw5xZpiqMG_rQ7PS65QhX8SYI","origin":null,"token":"eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJsb2dpbl90b2tlbiIsImhvc3BpdGFsSWQiOjEwMzc5LCJtb2JpbGUiOiIxODk1ODE0OTQ3NSIsImlzcyI6InpoaWNhbGwiLCJmcm9tIjoiOCIsInR5cGUiOiJQQVRJRU5UIiwiZXhwaXJlc19pbiI6IjE2MjQyMDA0MTQiLCJpYXQiOjE2MjQxOTY4MTQ2NDAsImFjY291bnQiOiIxMzk3NzUzMDIyMDI0NTQ0MjU4In0.IDbLwPVMl8MZNcQhhBQZ3LfZmZT-YwmFINNX9Z3D_Qg"}}
+[2021-06-20 21:46:54,923][YamlUtil.py 22][INFO]: 加载 F:\project\pythonInterfaceTest/token.yml 文件......
+[2021-06-20 21:46:54,923][YamlUtil.py 25][INFO]: 写入 F:\project\pythonInterfaceTest/token.yml 文件......成功
+[2021-06-20 21:46:54,924][TestInit.py 53][INFO]: ===初始化获取token接口调用正常，写入token.yml文件成功===
+[2021-06-20 21:46:54,924][TestInit.py 54][INFO]: *************** 初始化结束 ***************
+[2021-06-20 21:46:55,254][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 21:46:55,256][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]], 'test_getVisitList': [['', True, True, 10379, 14005], [None, True, True, 10379, 14005], ['1397753022024544258', True, True, 10379, 0]]} 
+[2021-06-20 21:46:55,299][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 21:46:55,300][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 21:46:55,300][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest/token.yml 文件......
+[2021-06-20 21:46:55,301][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'token': 'eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJsb2dpbl90b2tlbiIsImhvc3BpdGFsSWQiOjEwMzc5LCJtb2JpbGUiOiIxODk1ODE0OTQ3NSIsImlzcyI6InpoaWNhbGwiLCJmcm9tIjoiOCIsInR5cGUiOiJQQVRJRU5UIiwiZXhwaXJlc19pbiI6IjE2MjQyMDA0MTQiLCJpYXQiOjE2MjQxOTY4MTQ2NDAsImFjY291bnQiOiIxMzk3NzUzMDIyMDI0NTQ0MjU4In0.IDbLwPVMl8MZNcQhhBQZ3LfZmZT-YwmFINNX9Z3D_Qg'} 
+[2021-06-20 21:46:55,308][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest/token.yml 文件......
+[2021-06-20 21:46:55,308][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest/token.yml 文件......成功
+[2021-06-20 21:46:55,309][rest_client.py 55][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/patient/list
+[2021-06-20 21:46:55,309][rest_client.py 56][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 21:46:55,309][rest_client.py 58][INFO]: 接口请求头 ==>> {
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJsb2dpbl90b2tlbiIsImhvc3BpdGFsSWQiOjEwMzc5LCJtb2JpbGUiOiIxODk1ODE0OTQ3NSIsImlzcyI6InpoaWNhbGwiLCJmcm9tIjoiOCIsInR5cGUiOiJQQVRJRU5UIiwiZXhwaXJlc19pbiI6IjE2MjQyMDA0MTQiLCJpYXQiOjE2MjQxOTY4MTQ2NDAsImFjY291bnQiOiIxMzk3NzUzMDIyMDI0NTQ0MjU4In0.IDbLwPVMl8MZNcQhhBQZ3LfZmZT-YwmFINNX9Z3D_Qg"
+}
+[2021-06-20 21:46:55,310][rest_client.py 59][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 21:46:55,310][rest_client.py 60][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 21:46:55,310][rest_client.py 61][INFO]: 接口请求体 json 参数 ==>> {
+    "accountId": "",
+    "withCard": true,
+    "isShowBlank": true,
+    "hospitalId": 10379
+}
+[2021-06-20 21:46:55,310][rest_client.py 62][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 21:46:55,310][rest_client.py 63][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 21:46:55,325][test_Authorize.py 72][INFO]: *************** 结束执行用例 ***************
+[2021-06-20 21:46:55,333][rest_client.py 55][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/patient/list
+[2021-06-20 21:46:55,334][rest_client.py 56][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 21:46:55,334][rest_client.py 58][INFO]: 接口请求头 ==>> {
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJsb2dpbl90b2tlbiIsImhvc3BpdGFsSWQiOjEwMzc5LCJtb2JpbGUiOiIxODk1ODE0OTQ3NSIsImlzcyI6InpoaWNhbGwiLCJmcm9tIjoiOCIsInR5cGUiOiJQQVRJRU5UIiwiZXhwaXJlc19pbiI6IjE2MjQyMDA0MTQiLCJpYXQiOjE2MjQxOTY4MTQ2NDAsImFjY291bnQiOiIxMzk3NzUzMDIyMDI0NTQ0MjU4In0.IDbLwPVMl8MZNcQhhBQZ3LfZmZT-YwmFINNX9Z3D_Qg"
+}
+[2021-06-20 21:46:55,334][rest_client.py 59][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 21:46:55,334][rest_client.py 60][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 21:46:55,334][rest_client.py 61][INFO]: 接口请求体 json 参数 ==>> {
+    "accountId": null,
+    "withCard": true,
+    "isShowBlank": true,
+    "hospitalId": 10379
+}
+[2021-06-20 21:46:55,334][rest_client.py 62][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 21:46:55,334][rest_client.py 63][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 21:46:55,348][test_Authorize.py 72][INFO]: *************** 结束执行用例 ***************
+[2021-06-20 21:46:55,355][rest_client.py 55][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/patient/list
+[2021-06-20 21:46:55,356][rest_client.py 56][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 21:46:55,356][rest_client.py 58][INFO]: 接口请求头 ==>> {
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJsb2dpbl90b2tlbiIsImhvc3BpdGFsSWQiOjEwMzc5LCJtb2JpbGUiOiIxODk1ODE0OTQ3NSIsImlzcyI6InpoaWNhbGwiLCJmcm9tIjoiOCIsInR5cGUiOiJQQVRJRU5UIiwiZXhwaXJlc19pbiI6IjE2MjQyMDA0MTQiLCJpYXQiOjE2MjQxOTY4MTQ2NDAsImFjY291bnQiOiIxMzk3NzUzMDIyMDI0NTQ0MjU4In0.IDbLwPVMl8MZNcQhhBQZ3LfZmZT-YwmFINNX9Z3D_Qg"
+}
+[2021-06-20 21:46:55,356][rest_client.py 59][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 21:46:55,356][rest_client.py 60][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 21:46:55,356][rest_client.py 61][INFO]: 接口请求体 json 参数 ==>> {
+    "accountId": "1397753022024544258",
+    "withCard": true,
+    "isShowBlank": true,
+    "hospitalId": 10379
+}
+[2021-06-20 21:46:55,356][rest_client.py 62][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 21:46:55,356][rest_client.py 63][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 21:46:55,378][test_Authorize.py 72][INFO]: *************** 结束执行用例 ***************
+[2021-06-20 21:48:05,925][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 21:48:05,926][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 21:48:05,926][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 21:48:05,927][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 21:48:05,928][TestInit.py 33][INFO]: *************** 初始化开始 ***************
+[2021-06-20 21:48:05,928][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 21:48:05,929][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 21:48:05,929][rest_client.py 55][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/account/wechatAppletsLogin
+[2021-06-20 21:48:05,929][rest_client.py 56][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 21:48:05,929][rest_client.py 58][INFO]: 接口请求头 ==>> null
+[2021-06-20 21:48:05,929][rest_client.py 59][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 21:48:05,929][rest_client.py 60][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 21:48:05,929][rest_client.py 61][INFO]: 接口请求体 json 参数 ==>> {
+    "openId": "oAYeb5b-5ib9ab-2t_UeQBsrI6Yw",
+    "unionId": "oFKGw5xZpiqMG_rQ7PS65QhX8SYI",
+    "mobileNo": 18958149475,
+    "hospitalId": 10379
+}
+[2021-06-20 21:48:05,929][rest_client.py 62][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 21:48:05,929][rest_client.py 63][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 21:48:05,970][TestInit.py 43][INFO]: 出参：{"code":0,"system":"user","errMsg":"登录成功!","data":{"id":"1397753022024544258","familyId":"0","code":"","nickname":null,"email":null,"mobile":"18958149475","regMember":null,"lastLoginTime":"2021-06-20 21:48:05","loginTimes":"110","hospitalId":"10379","invitationCode":null,"activeFlag":"YES","openId":"oAYeb5b-5ib9ab-2t_UeQBsrI6Yw","unionId":"oFKGw5xZpiqMG_rQ7PS65QhX8SYI","origin":null,"token":"eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJsb2dpbl90b2tlbiIsImhvc3BpdGFsSWQiOjEwMzc5LCJtb2JpbGUiOiIxODk1ODE0OTQ3NSIsImlzcyI6InpoaWNhbGwiLCJmcm9tIjoiOCIsInR5cGUiOiJQQVRJRU5UIiwiZXhwaXJlc19pbiI6IjE2MjQyMDA0ODUiLCJpYXQiOjE2MjQxOTY4ODU2ODcsImFjY291bnQiOiIxMzk3NzUzMDIyMDI0NTQ0MjU4In0.qfdOOvMxzHABEiEBTV2clgMuWKEIg0zE8m-QKmz82g0"}}
+[2021-06-20 21:48:05,970][YamlUtil.py 22][INFO]: 加载 F:\project\pythonInterfaceTest/token.yml 文件......
+[2021-06-20 21:48:05,971][YamlUtil.py 25][INFO]: 写入 F:\project\pythonInterfaceTest/token.yml 文件......成功
+[2021-06-20 21:48:05,971][TestInit.py 53][INFO]: ===初始化获取token接口调用正常，写入token.yml文件成功===
+[2021-06-20 21:48:05,971][TestInit.py 54][INFO]: *************** 初始化结束 ***************
+[2021-06-20 21:48:06,306][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\data\api_test_data.yml 文件......
+[2021-06-20 21:48:06,307][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'test_get_token': [['oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', '18958149475', 10379]], 'test_getVisitList': [['', True, True, 10379, 14005], [None, True, True, 10379, 14005], ['1397753022024544258', True, True, 10379, 0]]} 
+[2021-06-20 21:48:06,352][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest\config\env.yml 文件......
+[2021-06-20 21:48:06,353][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'url': 'http://gw-sit.zhicall.cn', 'openId': 'oAYeb5b-5ib9ab-2t_UeQBsrI6Yw', 'unionId': 'oFKGw5xZpiqMG_rQ7PS65QhX8SYI', 'mobileNo': 18958149475, 'hospitalId': 10379} 
+[2021-06-20 21:48:06,353][YamlUtil.py 13][INFO]: 加载 F:\project\pythonInterfaceTest/token.yml 文件......
+[2021-06-20 21:48:06,353][YamlUtil.py 16][INFO]: 读到数据 ==>>  {'token': 'eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJsb2dpbl90b2tlbiIsImhvc3BpdGFsSWQiOjEwMzc5LCJtb2JpbGUiOiIxODk1ODE0OTQ3NSIsImlzcyI6InpoaWNhbGwiLCJmcm9tIjoiOCIsInR5cGUiOiJQQVRJRU5UIiwiZXhwaXJlc19pbiI6IjE2MjQyMDA0ODUiLCJpYXQiOjE2MjQxOTY4ODU2ODcsImFjY291bnQiOiIxMzk3NzUzMDIyMDI0NTQ0MjU4In0.qfdOOvMxzHABEiEBTV2clgMuWKEIg0zE8m-QKmz82g0'} 
+[2021-06-20 21:48:06,361][YamlUtil.py 30][INFO]: 加载 F:\project\pythonInterfaceTest/token.yml 文件......
+[2021-06-20 21:48:06,361][YamlUtil.py 33][INFO]: 清除 F:\project\pythonInterfaceTest/token.yml 文件......成功
+[2021-06-20 21:48:06,363][rest_client.py 55][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/patient/list
+[2021-06-20 21:48:06,363][rest_client.py 56][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 21:48:06,363][rest_client.py 58][INFO]: 接口请求头 ==>> {
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJsb2dpbl90b2tlbiIsImhvc3BpdGFsSWQiOjEwMzc5LCJtb2JpbGUiOiIxODk1ODE0OTQ3NSIsImlzcyI6InpoaWNhbGwiLCJmcm9tIjoiOCIsInR5cGUiOiJQQVRJRU5UIiwiZXhwaXJlc19pbiI6IjE2MjQyMDA0ODUiLCJpYXQiOjE2MjQxOTY4ODU2ODcsImFjY291bnQiOiIxMzk3NzUzMDIyMDI0NTQ0MjU4In0.qfdOOvMxzHABEiEBTV2clgMuWKEIg0zE8m-QKmz82g0"
+}
+[2021-06-20 21:48:06,363][rest_client.py 59][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 21:48:06,363][rest_client.py 60][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 21:48:06,363][rest_client.py 61][INFO]: 接口请求体 json 参数 ==>> {
+    "accountId": "",
+    "withCard": true,
+    "isShowBlank": true,
+    "hospitalId": 10379
+}
+[2021-06-20 21:48:06,363][rest_client.py 62][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 21:48:06,363][rest_client.py 63][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 21:48:06,379][test_Authorize.py 72][INFO]: *************** 结束执行用例 ***************
+[2021-06-20 21:48:06,385][rest_client.py 55][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/patient/list
+[2021-06-20 21:48:06,386][rest_client.py 56][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 21:48:06,386][rest_client.py 58][INFO]: 接口请求头 ==>> {
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJsb2dpbl90b2tlbiIsImhvc3BpdGFsSWQiOjEwMzc5LCJtb2JpbGUiOiIxODk1ODE0OTQ3NSIsImlzcyI6InpoaWNhbGwiLCJmcm9tIjoiOCIsInR5cGUiOiJQQVRJRU5UIiwiZXhwaXJlc19pbiI6IjE2MjQyMDA0ODUiLCJpYXQiOjE2MjQxOTY4ODU2ODcsImFjY291bnQiOiIxMzk3NzUzMDIyMDI0NTQ0MjU4In0.qfdOOvMxzHABEiEBTV2clgMuWKEIg0zE8m-QKmz82g0"
+}
+[2021-06-20 21:48:06,386][rest_client.py 59][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 21:48:06,386][rest_client.py 60][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 21:48:06,386][rest_client.py 61][INFO]: 接口请求体 json 参数 ==>> {
+    "accountId": null,
+    "withCard": true,
+    "isShowBlank": true,
+    "hospitalId": 10379
+}
+[2021-06-20 21:48:06,386][rest_client.py 62][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 21:48:06,386][rest_client.py 63][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 21:48:06,400][test_Authorize.py 72][INFO]: *************** 结束执行用例 ***************
+[2021-06-20 21:48:06,408][rest_client.py 55][INFO]: 接口请求地址 ==>> http://gw-sit.zhicall.cn/user-center/patient/list
+[2021-06-20 21:48:06,408][rest_client.py 56][INFO]: 接口请求方式 ==>> POST
+[2021-06-20 21:48:06,408][rest_client.py 58][INFO]: 接口请求头 ==>> {
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJsb2dpbl90b2tlbiIsImhvc3BpdGFsSWQiOjEwMzc5LCJtb2JpbGUiOiIxODk1ODE0OTQ3NSIsImlzcyI6InpoaWNhbGwiLCJmcm9tIjoiOCIsInR5cGUiOiJQQVRJRU5UIiwiZXhwaXJlc19pbiI6IjE2MjQyMDA0ODUiLCJpYXQiOjE2MjQxOTY4ODU2ODcsImFjY291bnQiOiIxMzk3NzUzMDIyMDI0NTQ0MjU4In0.qfdOOvMxzHABEiEBTV2clgMuWKEIg0zE8m-QKmz82g0"
+}
+[2021-06-20 21:48:06,408][rest_client.py 59][INFO]: 接口请求 params 参数 ==>> null
+[2021-06-20 21:48:06,409][rest_client.py 60][INFO]: 接口请求体 data 参数 ==>> null
+[2021-06-20 21:48:06,409][rest_client.py 61][INFO]: 接口请求体 json 参数 ==>> {
+    "accountId": "1397753022024544258",
+    "withCard": true,
+    "isShowBlank": true,
+    "hospitalId": 10379
+}
+[2021-06-20 21:48:06,409][rest_client.py 62][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-20 21:48:06,409][rest_client.py 63][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-20 21:48:06,434][test_Authorize.py 72][INFO]: *************** 结束执行用例 ***************

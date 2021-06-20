@@ -1,0 +1,7 @@
+PyYAML
+pytest
+pytest-html
+pytest-xdist
+pytest-ordering
+pytest-rerunfailure
+allure-pytest
