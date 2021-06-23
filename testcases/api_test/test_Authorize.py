@@ -11,7 +11,7 @@ from api.user import user
 from common.YamlUtil import YamlUtil
 from common.logger import logger
 from core.rest_client import RestClient
-from testcases.conftest import api_data, step_first, step_login
+from testcases.conftest import api_data, step_first, step_login, response_logger
 
 BASE_PATH = os.path.dirname(os.path.dirname(os.path.dirname(os.path.realpath(__file__))))
 data_file_path = os.path.join(BASE_PATH, "config", "env.yml")
@@ -42,7 +42,7 @@ class TestAuthorize:
     #         "mobileNo": mobileNo,
     #         "hospitalId": hospitalId
     #     }
-    #     res = user.wechatAppletsLogin(json=json)
+    #     res = user_login.wechatAppletsLogin(json=json)
     #     logger.info("出参：" + res.text)
     #     YamlUtil().write_yaml(TestAuthorize.token_filepath, {'token': res.json()['data']['token']})
     #     assert res.json()['code'] == 0
@@ -55,20 +55,23 @@ class TestAuthorize:
     @allure.description("该用例是获取就诊人列表数据的测试")
     @allure.issue("https://www.baidu.com", name="点击，跳转到对应BUG的链接地址")
     @allure.testcase("https://www.baidu.com", name="点击，跳转到对应用例的链接地址")
-    @pytest.mark.parametrize("accountId, withCard, isShowBlank, hospitalId, status",
+    @pytest.mark.parametrize("accountId, withCard, hospitalId, status",
                              api_data['test_getVisitList'])
-    def test_getVisitList(self, accountId, withCard, isShowBlank, hospitalId, status):
+    def test_getVisitList(self, accountId, withCard, hospitalId, status):
 
         json ={
                 "accountId": accountId,
                 "withCard": withCard,
-                "isShowBlank": isShowBlank,
+                # "isShowBlank": isShowBlank,
                 "hospitalId": hospitalId
             }
-        headers = {"token": TestAuthorize.token}
+        headers = {"token": TestAuthorize.token,
+                   "hospitalId": "10010"
+                   }
         res = user.PatientList(json=json,headers=headers)
-        print(res.json())
+        response_logger(res.text)
         assert res.json()['code'] == status
+
         logger.info("*************** 结束执行用例 ***************")
     #
     # def test_getGuahaoList(self):

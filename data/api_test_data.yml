@@ -5,7 +5,7 @@ test_get_token:
 
 test_getVisitList:
   # 期望结果,期望返回码,期望返回信息
-  # accountId, withCard, isShowBlank, hospitalId, status
-  - ['', true, true, 10379, 14005]
-  - [Null, true, true, 10379, 14005]
-  - ['1397753022024544258',true, true, 10379, 0]
+  # accountId, withCard, hospitalId, status
+  - ['', true,  10010, 14001]
+  - [Null, true, 10010, 14001]
+  - ['1397753022024544258',true,  10010, 0]

@@ -4,8 +4,9 @@
 import os
 
 import allure
+from Tools.scripts.find_recursionlimit import test_init
 
-from api.user import user
+from api.user_login import user
 from common.YamlUtil import YamlUtil
 from common.logger import logger
 
@@ -33,9 +34,17 @@ class TestInit:
         logger.info("*************** 初始化开始 ***************")
 
         yaml = YamlUtil().read_yaml(data_file_path)
+        # if yaml.get("openId") is None :
+        #     openId = ""
+        if yaml.get("unionId") is None:
+            unionId = ""
+        # if yaml.get("mobileNo") is None :
+        #     mobileNo = ""
+        # if yaml.get("hospitalId") is None:
+        #     hospitalId = ""
         json = {
             "openId": yaml.get("openId"),
-            "unionId":  yaml.get("unionId"),
+            "unionId":  unionId,
             "mobileNo":  yaml.get("mobileNo"),
             "hospitalId":  yaml.get("hospitalId")
         }

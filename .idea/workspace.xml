@@ -2,125 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7a4435d-ad3f-4ae3-b89e-870f7fdb1dc5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/data/attachments/16ba2901c1085724.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/data/attachments/3b5096bcaf60f9b1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/data/attachments/4b65aebe88a0f096.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/data/attachments/57dd6dee91d5ba6e.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/data/attachments/64ffa8cd5a62b483.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/data/attachments/6c02762d97efe9c2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/data/attachments/6cd00a70d023bc86.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/data/attachments/77adf88a2c91296a.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/data/attachments/7b7180a4964aa644.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/data/attachments/85b247af7c7153b7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/data/attachments/90f65b84a8748974.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/data/attachments/97a34c568405a1d5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/data/attachments/9ceba68fc1e2f323.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/data/attachments/b8505c797ee39d6b.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/data/attachments/d535169a61834ac1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/data/attachments/dbbb4262a65f0a39.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/data/attachments/e9b3adf277455515.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/data/attachments/f4330eb762569f9e.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/data/behaviors.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/data/behaviors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/data/categories.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/data/categories.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/data/packages.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/data/suites.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/data/suites.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/data/test-cases/1b913c69bca8e629.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/data/test-cases/451f433f6c61925d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/data/test-cases/6965a39ef99ed3f7.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/data/test-cases/95e3dd3302a58814.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/data/test-cases/d092cd418688d32.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/data/test-cases/db25139de8270f55.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/data/timeline.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/export/influxDbData.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/export/mail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/export/prometheusData.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/history/categories-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/history/duration-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/history/history-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/history/history.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/history/retry-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/plugins/behaviors/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/plugins/packages/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/plugins/screen-diff/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/plugins/screen-diff/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/widgets/behaviors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/widgets/categories-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/widgets/categories.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/widgets/duration-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/widgets/duration.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/widgets/environment.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/widgets/executors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/widgets/history-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/widgets/launch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/widgets/retry-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/widgets/severity.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/widgets/status-chart.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/widgets/suites.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllureReports/widgets/summary.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/075768d1-c9f1-47e9-8874-60a1e11b68a0-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/09250cd6-8121-4152-b3bf-12e407ae0505-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/0c1e1ecf-c36f-4eba-b679-985b592b8baf-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/0ef14253-21b1-4103-9ace-a4495bba44e7-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/18d910e0-e265-4e35-a202-31305d86e970-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/1c517691-16cb-475d-877a-f557b33f5df7-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/22147605-b9a8-4ce9-9a63-d20647b61dce-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/26e54cc8-df53-4fd3-8edb-f49e62877df0-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/2dbe2731-b277-4b67-aee8-166343e9f194-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/3013a7f6-393f-4f3f-80b8-631b150eab69-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/324fa24a-a534-4da0-82e1-a5de9539e7ee-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/3407ccb1-96b2-44d9-9ded-fde8c7420702-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/36b7a876-93d3-45fe-bba5-89a605efa4e7-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/3746e182-54e0-49a5-b6e3-bf84726c9454-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/3917f2ab-3652-449b-8dbd-efd54887cb5e-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/4052510f-a5ee-4758-8a5c-79850bee4812-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/422ce670-cbc1-4681-b993-c9e117601e96-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/4e4abc11-b700-4b07-9a2a-923e06df8a3f-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/5a8e13b2-6358-46d0-9740-ef170803ee43-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/5f0e238d-7169-4ecd-9ba6-09726818c4bc-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/6471c14d-228a-4c75-8aaf-e3f67ab55f79-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/659fcc9f-1da5-4f6a-b878-27d92c0cca1e-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/6660d870-8605-4f19-bca3-f55d5281f486-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/67664064-9f8e-4bb5-a8a5-9019d444e876-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/68090459-48a5-42a3-a5fd-ecf7316626f3-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/7042b5be-31f2-409f-9ca1-f14610274700-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/713ea218-fe78-4497-8f68-3d22afea2791-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/71b54c2f-2db5-4c5a-a52a-8576c8444cc0-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/78cb2233-5573-45dd-b913-fafdac8bb5ac-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/84c0f0c9-9b0f-4b63-b84a-044c515cfd82-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/8573e8a0-36b0-45e1-a202-4ee123e58a9c-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/885a4cfc-352f-4e8b-95be-8be0da38720d-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/a2d83306-0f8a-426f-9d97-527cd5952143-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/a3dffc77-9eb2-4278-b449-4d79ec030683-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/a5d59b53-d63d-478a-8d66-5de4e4fe57e3-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/a8536cb7-2241-45be-84b8-e7a790b8689f-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/a9fa5693-e2fe-4ec8-ba8b-272ffbe09bbd-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/ad7e7a97-5875-4526-9fa6-daeeb8a79204-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/b027bcb7-762b-4f52-bc92-1689c023896d-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/b92234ce-42f1-4162-881c-fd8053e84bdb-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/bb7c702a-1a8e-4404-bae4-ce2e37b569ce-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/be1a7fe1-8f7b-44a9-8261-139b7aaed9cb-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/bfa56893-c808-4675-9152-e8f02c6bf55e-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/c3961138-1396-44eb-8c8b-5e5a5cd773aa-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/c9679a6c-2175-4d68-a7aa-828751708036-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/c975ea18-0d5a-4644-8d43-94f44330de5d-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/cba9ca01-4197-4917-9f77-a9c4e9891be9-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/cd55603d-d46c-47e0-baca-b05387454b56-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/d38f51f3-055b-4a10-81a5-53468c9fed0c-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/e3239b50-a381-43ca-a923-99cad84f08f2-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/e3499213-b2ab-4ad5-9dee-9d273da9727d-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/e784445d-8fe9-43ca-8377-3d148e7ec8fe-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/f62143e1-e2a7-400c-82cd-f72a33ad6167-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/f74604f2-bb96-43b1-add6-6d701191389f-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/f82a2a76-b177-4049-8931-907e784b6eea-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/fba33535-32ae-4306-975e-8d1ada1ed535-container.json" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/user_login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonInterfaceTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonInterfaceTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/all.py" beforeDir="false" afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/env.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config/env.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/api_test_data.yml" beforeDir="false" afterPath="$PROJECT_DIR$/data/api_test_data.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/20210620.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcases/api_test/TestInit.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/api_test/TestInit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcases/api_test/test_Authorize.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/api_test/test_Authorize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcases/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/conftest.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +42,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/config" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/api" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -159,21 +53,43 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\project\pythonInterfaceTest\config" />
-      <recent name="F:\project\pythonInterfaceTest" />
-      <recent name="F:\project\pythonInterfaceTest\testcases" />
-      <recent name="F:\project\pythonInterfaceTest\testcases\api_test" />
-      <recent name="F:\pycharm\项目\pythonInterfaceTest" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\project\pythonInterfaceTest\testcases\api_test" />
       <recent name="F:\project\pythonInterfaceTest" />
       <recent name="F:\pycharm\项目\pythonInterfaceTest\testcases" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\zhaoxingang\test\PythonInterfaceTest\api" />
+      <recent name="F:\project\pythonInterfaceTest\config" />
+      <recent name="F:\project\pythonInterfaceTest" />
+      <recent name="F:\project\pythonInterfaceTest\testcases" />
+      <recent name="F:\project\pythonInterfaceTest\testcases\api_test" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.all">
-    <configuration name="all" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.run (1)">
+    <configuration name="TestInit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonInterfaceTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcases/api_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcases/api_test/TestInit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonInterfaceTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -186,7 +102,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/all.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="logger" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonInterfaceTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -203,12 +119,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/logger.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Administrator\Desktop\zhaoxingang\test\PythonInterfaceTest\run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonInterfaceTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcases/api_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcases/api_test/test1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -252,51 +190,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="F:\pycharm\项目\pythonInterfaceTest\testcases\test_Authorize.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test_Authorize" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonInterfaceTest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcases" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="F:\project\pythonInterfaceTest\testcases\api_test\test_Authorize.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="user" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonInterfaceTest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api/user.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -307,11 +201,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.all" />
+        <item itemvalue="Python.run (1)" />
+        <item itemvalue="Python.test1" />
+        <item itemvalue="Python.TestInit" />
+        <item itemvalue="Python.run" />
         <item itemvalue="Python.test_Authorize (1)" />
-        <item itemvalue="Python.user" />
-        <item itemvalue="Python.test_Authorize (1)" />
-        <item itemvalue="Python.logger" />
       </list>
     </recent_temporary>
   </component>
@@ -330,6 +224,9 @@
       <workItem from="1624124417795" duration="955000" />
       <workItem from="1624168312966" duration="1763000" />
       <workItem from="1624171503868" duration="24105000" />
+      <workItem from="1624244904721" duration="3914000" />
+      <workItem from="1624329430477" duration="6331000" />
+      <workItem from="1624413804701" duration="11762000" />
     </task>
     <servers />
   </component>
@@ -337,61 +234,91 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="668" y="131" key="#all" timestamp="1624343967189">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="131" key="#all/0.0.1920.1040@0.0.1920.1040" timestamp="1624343967189" />
     <state x="1010" y="447" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1624170688959">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1010" y="447" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1624170688959" />
-    <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1623937995023">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="795" y="338" key="FileChooserDialogImpl" timestamp="1624344062997">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="795" y="338" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1624344062997" />
     <state x="1060" y="455" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1623937995023" />
-    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1624196885598">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1876" height="620" key="GridCell.Tab.0.bottom" timestamp="1624431906109">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1876" height="620" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1624431906109" />
     <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1624196885598" />
-    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1624196885598">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1876" height="620" key="GridCell.Tab.0.center" timestamp="1624431906109">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1876" height="620" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1624431906109" />
     <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1624196885598" />
-    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1624196885598">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1876" height="620" key="GridCell.Tab.0.left" timestamp="1624431906109">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1876" height="620" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1624431906109" />
     <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1624196885598" />
-    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1624196885598">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1876" height="620" key="GridCell.Tab.0.right" timestamp="1624431906109">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1876" height="620" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1624431906109" />
     <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1624196885598" />
-    <state width="2517" height="492" key="GridCell.Tab.1.bottom" timestamp="1624185936542">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1876" height="342" key="GridCell.Tab.1.bottom" timestamp="1624430650044">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1876" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1624430650044" />
     <state width="2517" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1624185936542" />
-    <state width="2517" height="492" key="GridCell.Tab.1.center" timestamp="1624185936542">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1876" height="342" key="GridCell.Tab.1.center" timestamp="1624430650044">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1876" height="342" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1624430650044" />
     <state width="2517" height="492" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1624185936542" />
-    <state width="2517" height="492" key="GridCell.Tab.1.left" timestamp="1624185936542">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1876" height="342" key="GridCell.Tab.1.left" timestamp="1624430650044">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1876" height="342" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1624430650044" />
     <state width="2517" height="492" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1624185936542" />
-    <state width="2517" height="492" key="GridCell.Tab.1.right" timestamp="1624185936542">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1876" height="342" key="GridCell.Tab.1.right" timestamp="1624430650044">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1876" height="342" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1624430650044" />
     <state width="2517" height="492" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1624185936542" />
-    <state x="781" y="342" key="SettingsEditor" timestamp="1623934234135">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="586" y="254" key="SettingsEditor" timestamp="1624344842898">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="586" y="254" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1624344842898" />
     <state x="781" y="342" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1623934234135" />
-    <state x="960" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1624124430414">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="720" y="389" key="com.intellij.ide.util.TipDialog" timestamp="1624413806915">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="720" y="389" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1624413806915" />
     <state x="960" y="524" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1624124430414" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/api/user_login.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonInterfaceTest$test_Authorize__1_.coverage" NAME="test_Authorize (1) Coverage Results" MODIFIED="1624188440378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases/api_test" />
     <SUITE FILE_PATH="coverage/pythonInterfaceTest$all.coverage" NAME="all Coverage Results" MODIFIED="1624196885593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonInterfaceTest$test_01.coverage" NAME="test_01 Coverage Results" MODIFIED="1624171357152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases" />
+    <SUITE FILE_PATH="coverage/PythonInterfaceTest$all.coverage" NAME="all Coverage Results" MODIFIED="1624416038063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonInterfaceTest$logger.coverage" NAME="logger Coverage Results" MODIFIED="1624173493217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
     <SUITE FILE_PATH="coverage/pythonInterfaceTest$user.coverage" NAME="user Coverage Results" MODIFIED="1624182281993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api" />
+    <SUITE FILE_PATH="coverage/PythonInterfaceTest$TestInit.coverage" NAME="TestInit Coverage Results" MODIFIED="1624418400359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases/api_test" />
+    <SUITE FILE_PATH="coverage/PythonInterfaceTest$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1624427418635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases/api_test" />
+    <SUITE FILE_PATH="coverage/PythonInterfaceTest$run__1_.coverage" NAME="run (1) Coverage Results" MODIFIED="1624431900115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonInterfaceTest$HttpClient.coverage" NAME="HttpClient Coverage Results" MODIFIED="1624076500159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api" />
   </component>
 </project>

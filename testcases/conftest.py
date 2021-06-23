@@ -1,7 +1,7 @@
 import pytest
 import os
 import allure
-from api.user import user
+from api.user_login import user
 from common.YamlUtil import YamlUtil
 from common.logger import logger
 
@@ -37,6 +37,10 @@ def step_login(username, password):
     logger.info("前置步骤 ==>> 用户 {} 登录".format(username, password))
 
 
-@pytest.fixture(scope="session",autouse=True)
+@pytest.fixture(scope="session", autouse=True)
 def login_token():
     YamlUtil().clear_yaml(BASE_PATH + '/token.yml')
+
+
+def response_logger(response):
+    logger.info("接口出参：" + response)

@@ -5,7 +5,7 @@ from core.rest_client import RestClient
 
 BASE_PATH = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
 data_file_path = os.path.join(BASE_PATH, "config", "env.yml")
-api_root_url = YamlUtil().read_yaml(data_file_path).get('url')
+api_root_url = YamlUtil().read_yaml(data_file_path).get('zhicall_url')
 
 
 class User(RestClient):
@@ -13,12 +13,12 @@ class User(RestClient):
     def __init__(self, api_root_url, **kwargs):
         super(User, self).__init__(api_root_url, **kwargs)
 
-    def wechatAppletsLogin(self,  **kwargs):
-        url = self.api_root_url + "/user-center/account/wechatAppletsLogin"
-        return self.post(url, **kwargs)
+    # def wechatAppletsLogin(self,  **kwargs):
+    #     url = self.api_root_url + "/user-center/account/wechatAppletsLogin"
+    #     return self.post(url, **kwargs)
 
     def PatientList(self, **kwargs):
-        url = self.api_root_url + "/user-center/patient/list"
+        url = self.api_root_url + "/user-center/patient.listFilter.hsr"
         return self.post(url, **kwargs)
 
 
